@@ -59,6 +59,6 @@ $\quad$
 - [[1 Die Welt von Terranien/4 Städte & Provinzen/🧭Hochsee-Archipel\|🧭Hochsee-Archipel]]
 - 🧭weitere folgen...
 $\quad$
-### 🧑‍🎭$\quad$**Wichtige Charaktere**
+### 👤$\quad$**Wichtige Charaktere**
 
 - 🧙diese folgen noch...
