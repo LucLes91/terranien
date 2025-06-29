@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/die-welt-von-terranien/","tags":["gardenEntry"]}
 ---
 
+$\quad$
 # 🧙 Willkommen, Wanderer & Reisende
 
 $\quad$
@@ -42,9 +43,9 @@ $\quad$
 **$\quad$**
 ###### **📜 [[Der Lore-Bereich\|Der Lore-Bereich]]**
 $\quad$$\quad$ Hier findet du alles wissenswerte zu Fraktionen, NPCs und der Welt.
-$\quad$
+
 ###### 🎲 **[[Der Spieler-Bereich\|Der Spieler-Bereich]]**
 $\quad$$\quad$ Hier sind für dich alle nötigen Infos zu Regelwerk, SCs und Sessions.
-$\quad$
+
 ######  🎩 **[[Der Spielleiter-Bereich\|Der Spielleiter-Bereich]]**
 $\quad$$\quad$ Hier lagern meine benötigten Materialien und Quests, kein Zutritt 😏.
