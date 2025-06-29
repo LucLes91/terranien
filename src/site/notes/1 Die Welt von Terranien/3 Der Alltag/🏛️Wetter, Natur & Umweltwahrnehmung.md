@@ -3,7 +3,7 @@
 ---
 
 # 🌦 **Wetter, Natur & Umweltwahrnehmung**
-$\quad$
+
 > **_„Der Himmel schweigt nicht – er erzählt. Und wer zuhört, versteht das Land.“_**
 
 In Terranien ist die Natur kein stummer Hintergrund, sondern eine atmende, flüsternde Macht – gefürchtet, geehrt, verklärt. Wetter und Landschaft formen nicht nur das Leben der Menschen, sondern auch ihre Seele. Der Wind trägt Geschichten, der Nebel birgt Mahnungen, und der Regen kann Fluch oder Segen sein – je nachdem, wen man fragt.
