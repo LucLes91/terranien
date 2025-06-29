@@ -7,28 +7,28 @@
 > **„Ordnung durch Handel. Stärke durch Struktur.“**  
 > —  Leitspruch der Münzkompanie
 
-Wenn man im Herzen des Reiches den Klang des Reichtums hören möchte, lauscht man nicht dem Schlagen der Hämmer in den Gildenhallen oder dem Klirren der Münzen auf dem Markt. Man hört das leise Kratzen einer Feder über Pergament, das sachliche Klopfen eines Siegels – und das zählende Schweige der Kompanie.
+Wenn man im Herzen des Reiches den Klang des Reichtums hören möchte, lauscht man nicht dem Schlagen der Hämmer in den Gildenhallen oder dem Klirren der Münzen auf dem Markt. Man hört das leise Kratzen einer Feder über Pergament, das sachliche Klopfen eines Siegels – ***und das zählende Schweigen der Kompanie.***
 
-Die Wirtschaft Terraniens ist ein Geflecht aus althergebrachter Arbeit, wachsendem Handel und eiserner Ordnung. Vom blühenden Markt in der Kaiserstadt bis zum Salztausch im Hochsee-Archipel – überall bestimmt der Fluss des Silbers und Goldes, wer isst, wer hungert und wer herrscht. In dieser Welt der Werte ist es die Münzkompanie, die den Strom lenkt.
+Die Wirtschaft Terraniens ist ein Geflecht aus **althergebrachter Arbeit, wachsendem Handel und eiserner Ordnung**. Vom blühenden Markt in der Kaiserstadt bis zum Salztausch im Hochsee-Archipel – überall bestimmt der Fluss des Silbers und Goldes, wer isst, wer hungert und wer herrscht. In dieser Welt der Werte ist es die Münzkompanie, die den Strom lenkt.
 
 ### 🪙 **Münzen und Zahlungsmittel**
 
-Die offizielle Währung Terraniens ist der **Aurin**, geprägt in Gold und Silber. Seine Zuverlässigkeit und einheitliche Maße verdankt das Reich der Münzkompanie, die allein das Recht besitzt, Münzen zu schlagen, Wechselbriefe auszustellen und Handelsstandards festzusetzen. Ihre Münzen tragen das Symbol des Greifen – nicht wegen der Krone, sondern wegen der Kompanie.
+Die offizielle Währung Terraniens ist der **Aurin**, geprägt in **Gold und Silber**. Seine Zuverlässigkeit und einheitliche Maße verdankt das Reich der Münzkompanie, die allein das Recht besitzt, Münzen zu schlagen, Wechselbriefe auszustellen und Handelsstandards festzusetzen. *Ihre Münzen tragen das Symbol des Greifen - als immerwährender Blick über das Florieren des Wohlstandes.*
 
 > Gängige Einheiten:
 > - **1 Aurin** (Goldmünze) = **10 Argen** (Silbermünzen)
 
-Daneben existieren regionale Besonderheiten: Muschelgeld in den Inseln, Ätherkristallsplitter als Wechselwährung unter Alchemisten, alte Plageprägungen, die man besser nicht annimmt – und natürlich Tauschhandel in den entlegensten Winkeln des Reiches.
+Daneben existieren regionale Besonderheiten: Muschelgeld in den Inseln, Ätherkristallsplitter als Wechselwährung unter Alchemisten, alte Plageprägungen, die man besser nicht annimmt – und **natürlich Tauschhandel in den entlegensten Winkeln** des Reiches.
 
 ### 🏦 **Die Macht der Münzkompanie**
 
-Die Münzkompanie ist keine Gilde. Sie ist Gesetz. Sie erhebt Zölle, genehmigt Handelslizenzen, prüft Maße und sorgt dafür, dass Handel nicht nur möglich, sondern profitabel bleibt – zumindest für jene, die sich ihrem System unterwerfen. Wer am Markt bestehen will, unterliegt ihrer Ordnung.
+Die Münzkompanie ist keine Gilde. Sie ist Gesetz. Sie erhebt Zölle, genehmigt Handelslizenzen, prüft Maße und sorgt dafür, dass Handel nicht nur möglich, sondern profitabel bleibt – zumindest für jene, die sich ihrem System unterwerfen. W**er am Markt bestehen will, unterliegt ihrer Ordnung**.
 
-In vielen Städten besitzt die Kompanie eigene Zählhäuser und Wechselstuben. Sie bietet Darlehen an Fürsten, legt Handelsrouten fest und kontrolliert durch das Triumvirat ihrer Obersten, was gekauft, verkauft und versteuert wird. Niemand weiß genau, wie reich die Kompanie wirklich ist. Aber jeder Händler weiß, was es kostet, sie zu ignorieren.
+In vielen Städten besitzt die Kompanie eigene Zählhäuser und Wechselstuben. Sie bietet Darlehen an Fürsten, legt Handelsrouten fest und kontrolliert durch das Triumvirat ihrer Obersten, **was gekauft, verkauft und versteuert wird**. Niemand weiß genau, wie reich die Kompanie wirklich ist. *Aber jeder Händler weiß, was es kostet, sie zu ignorieren.*
 
 ### 🧮 **Löhne, Lebensunterhalt und Kaufkraft**
 
-Das Reich ist kein Ort der Gleichheit. Wer arbeitet, verdient – doch nicht jeder gleich. Während Tagelöhner froh sind, am Abend ein paar Argen und eine warme Suppe zu haben, handeln Kaufleute mit Summen, die ganze Dörfer ernähren könnten. Der Wohlstand der Städte steht im harten Kontrast zum Überlebenskampf auf dem Land.
+Das Reich ist **kein Ort der Gleichheit**. Wer arbeitet, verdient – doch nicht jeder gleich. Während Tagelöhner froh sind, am Abend ein paar Argen und eine warme Suppe zu haben, handeln Kaufleute mit Summen, die ganze Dörfer ernähren könnten. Der Wohlstand der Städte steht im harten Kontrast zum Überlebenskampf auf dem Land.
 
 #### 🎒 Tageslöhne
 
@@ -41,7 +41,7 @@ Das Reich ist kein Ort der Gleichheit. Wer arbeitet, verdient – doch nicht jed
 | Stadtschreiber / Beamter | ca. 8 Aurin (80 Argen)        |                                    |
 | Magier / Heiler          | ca. 8–12 Aurin (80–120 Argen) |                                    |
 
-Eine Hütte im Land kostet 5 bis 20 Aurin im Monat, ein gutes Stadthaus hingegen ein Vielfaches. Wer überleben will, muss arbeiten. Wer aufsteigen will, muss zahlen.
+Eine **Hütte im Land kostet 5 bis 20 Aurin im Monat,** ein gutes Stadthaus hingegen ein Vielfaches. Wer überleben will, muss arbeiten. Wer aufsteigen will, muss zahlen.
 
 #### ⚖️ Gesellschaftliche Kaufkraft
 
@@ -55,9 +55,9 @@ Eine Hütte im Land kostet 5 bis 20 Aurin im Monat, ein gutes Stadthaus hingegen
 
 ### 🏺 **Waren, Dienste und die Grauzonen des Marktes**
 
-Der Markt Terraniens kennt keine Schranken – außer jenen, die durch Zölle, Gesetze und Gier gezogen werden. Von einfachen Brotlaiben über edle Reitpferde bis zu magischen Dienstleistungen kann man alles kaufen – wenn man den Preis kennt.
+Der **Markt Terraniens kennt keine Schranken** – außer jenen, die durch Zölle, Gesetze und Gier gezogen werden. Von einfachen Brotlaiben über edle Reitpferde bis zu magischen Dienstleistungen kann man alles kaufen – wenn man den Preis kennt.
 
-Doch es gibt auch andere Märkte: Schwarze, graue, geheime. Dort kauft man Wissen, Waffen, Menschen. Und zahlt nicht immer mit Münzen.
+Doch es gibt auch andere Märkte: **Schwarze, graue, geheime**. Dort kauft man Wissen, Waffen, Menschen. **Und zahlt nicht immer mit Münzen**.
 
 **Fazit: Eine Welt in Gold und Schatten**
 
@@ -130,7 +130,7 @@ Doch es gibt auch andere Märkte: Schwarze, graue, geheime. Dort kauft man Wisse
 | Schreiner (Mobiliar)                | 10          | 100         | Möbelstücke, Truhen, Schränke                  |
 | Waffenlehrer Intensivkurs           | 70-100      | 700-1000    | gezielte Technikschulung, Manöver, Haltung     |
 | Waffenlehrer Meisterungskurs        | 120-180     | 1200-1800   | tägliches Training, 2–4h, inkl. Taktik & Drill |
-Die Wirtschaft Terraniens ist keine neutrale Kraft. Sie nährt wie sie knechtet. Die Ordnung, die sie bringt, hat einen Preis – und der wird selten gerecht verteilt. Doch in einem Reich, das von Ungeheuern, Umbrüchen und Unsicherheit umgeben ist, ist vielleicht genau das die größte Stärke:  
+Die Wirtschaft Terraniens ist keine neutrale Kraft. **Sie nährt wie sie knechtet**. Die Ordnung, die sie bringt, hat einen Preis – und der wird selten gerecht verteilt. Doch in einem Reich, das von Ungeheuern, Umbrüchen und Unsicherheit umgeben ist, ist vielleicht genau das die größte Stärke:  
 Dass man sich, wenn alles andere wankt, auf eines verlassen kann:
 
 **Gold bleibt Gold. Und die Kompanie zählt.**
