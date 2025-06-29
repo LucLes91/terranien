@@ -3,7 +3,7 @@
 ---
 
 # 🔍 **Der Almanach des Reiches**
-**$\quad$**
+
 > **🌌 Die Welt von Terranien – Wissen & Legenden**
 
 $\quad$
