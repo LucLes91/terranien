@@ -36,6 +36,7 @@ $\quad$
 > **🗓 Sonntag 17.08.2025 – 14:00 Uhr bei Lucas zu Hause.
 > $\quad$$\quad$$\quad$(Bitte Rückmeldung bis 10.08.2025)**
 
+$\quad$
 ---
 
 $\quad$
