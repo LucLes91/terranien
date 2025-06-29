@@ -1,6 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/1-die-welt-von-terranien/1-prolog/disclaimer-and-vorwort/"}
+{"dg-publish":true,"permalink":"/1-die-welt-von-terranien/1-prolog/disclaimer-and-vorwort/","tags":["gardenEntry"]}
 ---
+
+
+
 
 
 ![Vorwort.png](/img/user/4%20Dateien/Vorwort.png)
