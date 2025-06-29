@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/2-die-fraktionen/1-grosse-fraktionen/muenzkompanie/"}
 ---
 
+# 🏦 **Die Münzkompanie**
+$\quad$
 **„Gold ist Geduld, Handel ist Macht – und wir sind ihre Hände.“**
 
 Unter den vielen Zahnrädern, die das große Getriebe des Kaiserreiches am Laufen halten, dreht sich eines still und doch mit unerbittlicher Konstanz: **die Münzkompanie**.  

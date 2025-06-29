@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/2-die-fraktionen/1-grosse-fraktionen/dampfbruderschaft/"}
 ---
 
+# ⚙️ **Die Dampfbruderschaft**
+$\quad$
 **„Wo Rauch aufsteigt, ist eine Idee entfacht.“**
 
 Nicht jeder Kampf wird mit Klinge oder Zauber gewonnen. Tief in den Hallen aus Stein und Bronze, in Werkstätten voller Rauch und Funken, wirkt die **Dampfbruderschaft** – ein Bund pragmatischer Geister, die in der Dunkelheit der Plage eine neue Art des Denkens schmiedeten.  

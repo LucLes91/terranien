@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/2-die-fraktionen/1-grosse-fraktionen/greifenbrigade/"}
 ---
 
+# 🦅 **Die Greifenbrigade**
+$\quad$
 **„Unser Flug endet erst, wenn der Himmel schweigt.“**
 
 In den Tagen der Not, als die Schatten der Plage die Lande Terraniens verschlangen, erhob sich eine Streitmacht, wie sie das Reich nie zuvor gekannt hatte – diszipliniert, furchtlos, und mit dem Blick stets gen Horizont. Diese Streitmacht wurde zur **Greifenbrigade**, dem schlagkräftigen, hoch angesehenen Militärarm Landarions und bald des gesamten Kaiserreichs.

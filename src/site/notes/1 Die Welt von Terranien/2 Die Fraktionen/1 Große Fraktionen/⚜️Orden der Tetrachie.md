@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/2-die-fraktionen/1-grosse-fraktionen/orden-der-tetrachie/"}
 ---
 
+# 🕯️ **Der Orden der Tetrachie**
+$\quad$
 **„Frühling weckt, Sommer stärkt, Herbst mahnt, Winter wahrt – und wir folgen dem Rad, das alles bindet.“**
 
 Wo das Schwert allein nicht weiterführt, und wo das Wissen um das Unsichtbare den Unterschied zwischen Verderben und Erlösung bedeutet, da beginnt das Wirken des **Ordens der Tetrachie** – einer der ältesten und zugleich jüngsten Institutionen des Kaiserreichs.

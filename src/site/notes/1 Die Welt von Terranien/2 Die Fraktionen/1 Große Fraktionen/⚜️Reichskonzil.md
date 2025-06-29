@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/2-die-fraktionen/1-grosse-fraktionen/reichskonzil/"}
 ---
 
+# 🏵️ **Das Reichskonzil**
+$\quad$
 **„Im Schatten des Throns fällt jede Entscheidung doppelt schwer – und doppelt weit.“**
 
 Obgleich das Reich formal unter dem Banner einer Erbmonarchie steht, war es doch schon **Kaiser Demios I.**, der erkannte, dass ein weiser Herrscher nicht allein herrschen sollte. Und so stützte er seine Entscheidungen auf den Beistand eines Konzils – jenes ehrwürdige Gremium, das seither gleichsam **die Stimme der Regierung und das Gewissen der Nation** verkörpert.

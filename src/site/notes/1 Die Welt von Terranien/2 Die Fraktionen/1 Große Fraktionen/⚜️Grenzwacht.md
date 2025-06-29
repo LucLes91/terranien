@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/2-die-fraktionen/1-grosse-fraktionen/grenzwacht/"}
 ---
 
+# 👁️ **Die Grenzwacht**
+$\quad$
 **„Wachsam. Vergessen. Unverzichtbar.“**
 
 Wenn in den prunkvollen Hallen der Kaiserstadt von Helden, Heeren und Hoffnung gesprochen wird, fällt ihr Name selten. Und doch sind sie es, die an den zermürbten Grenzen der Zivilisation stehen – mit kaltem Blick, müden Knochen und gezückter Klinge. Die **Grenzwacht** ist das Schild, das zwischen den Herzlanden Terraniens und den düsteren Auswüchsen der Düstermarschen gespannt wurde. Kein Ruhm erwartet sie dort. Nur Pflicht.
