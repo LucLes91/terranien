@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/2-die-fraktionen/2-kleinere-gruppierungen/verlorene-schar/"}
 ---
 
+# 🕯️ **Die Verlorene Schar**
+$\quad$
 **„Licht hat seinen Preis. Und manche bezahlten ihn mit Dunkelheit.“**
 
 Niemand weiß genau, wann sie sich formierten – **jene düstere Schar, die in den Plagenkriegen nur flüsternd genannt wurde**. Manche nannten sie die _Aschepfade_, andere _die Schattenrichter_, wieder andere schlicht _das Kollektiv_. Der heutige Volksmund kennt sie unter einem anderen Namen:  

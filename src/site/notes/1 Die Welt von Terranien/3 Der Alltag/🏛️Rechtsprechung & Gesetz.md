@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/3-der-alltag/rechtsprechung-and-gesetz/"}
 ---
 
+# 🔔 **Rechtsprechhung & Gesetz**
+$\quad$
 **„Nicht jede Klinge trennt Fleisch. Manche trennt Schuld von Strafe.“**
 
 Die Gerechtigkeit in Terranien trägt viele Gewänder – das der Krone, das der Fraktionen, das der Tradition. Sie ist weder blind noch stumm. Aber sie hat viele Stimmen – und nicht alle sprechen dieselbe Sprache.
@@ -59,7 +61,7 @@ Gefängnisse sind im Reich selten – nicht aus Milde, sondern aus Pragmatismus.
 Sie existieren vor allem in größeren Städten wie **Landarion**, **Ravaryn** oder **Elona** – ausgestattet mit eigenen Wachen, Gerichtsschreibern und oft sogar Beichtkammern.  
 Doch für die meisten Vergehen sieht das Reich **schnelle, sichtbare und abschreckende Strafen** vor.
 
-#### ⚖️ **Übliche Strafformen:**
+#### ⚖️ Übliche Strafformen:
 
 |Art der Strafe|Beschreibung|
 |---|---|
@@ -70,7 +72,7 @@ Doch für die meisten Vergehen sieht das Reich **schnelle, sichtbare und abschre
 |**Magievergehen**|Nichtgemeldete Zauberei wird durch die **Tetrachie** verfolgt – mit Strafen wie Bannkreis, Klosterhaft oder ritueller Stille.|
 |**Wissensvergehen**|Rezeptdiebstahl, Patentbruch, Formelfälschung. Bringt Klagen von Zünften und insbesondere der **Dampfbruderschaft** mit sich – oft gefolgt von öffentlicher Ächtung, Berufsverbot oder Zunftverweis.|
 
-#### 🛡️ **Strafdienst in den Marschen**
+#### 🛡️ Strafdienst in den Marschen
 
 Eine Besonderheit des Reiches ist die Praxis, Verurteilte zur **Grenzwacht** zu entsenden – besonders bei schwerwiegenden, aber nicht todeswürdigen Vergehen.  
 Dort dienen sie unter Aufsicht, meist am Rand der Düstermarschen. Einige überleben. Manche kehren geläutert zurück. Die meisten – nicht.

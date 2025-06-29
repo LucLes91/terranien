@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/3-der-alltag/feiertage-im-reich/"}
 ---
 
+# 🎉 **Feiertage im Reich**
+$\quad$
 **„Ein Reich lebt nicht allein von seinen Gesetzen, sondern von jenen Tagen, an denen es innehält.“**
 
 Die Feiertage Terraniens sind mehr als bloß gesetzte Pausen im Wandel der Jahreszeiten – sie sind Spiegel seiner Seele. In ihnen verbinden sich Glaube und Geschichte, Pflichtgefühl und Freude, Erinnerung und Hoffnung. Ob bei den großen Quartalsfesten zu Ehren der Vier, beim Schwur der Grenzwacht im Nebel, auf den salzverkrusteten Stegen des Archipels oder in den flackernden Winkeln der Schattennacht – jeder dieser Tage erzählt vom Wesen des Reiches: seiner Ordnung, seinen Narben, seinen Liedern.

@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/2-die-fraktionen/2-kleinere-gruppierungen/freien-gezeiten/"}
 ---
 
+# 🌊 **Die Freien Gezeiten
+$\quad$
 **_Die Rebellen des Archipels_**
 
 Im Schatten der imperialen Fahne erhebt sich ein leiser, aber fester Widerstand. Sie nennen sich selbst „Die Freien Gezeiten“ – ein Name, der sowohl ihre Bestrebung nach Unabhängigkeit als auch den unaufhaltsamen Fluss ihrer Bewegung beschreibt, die nicht aufzuhalten ist, ebenso wie die Gezeiten des Ozeans.

@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/2-die-fraktionen/2-kleinere-gruppierungen/bluthauer-clan/"}
 ---
 
+# 🪓 **Der Bluthauer-Clan**
+$\quad$
 **„Blutgeweiht. Verborgen. Ungezähmt.“**
 
 Der **Bluthauer Clan** lebt abgeschieden auf der nordöstlichen Insel des Hochsee-Archipels — ein raues, vom Wind gepeitschtes Eiland, das von einem **seltsam kastanienrötlichen Wald** überzogen ist und mehr Legenden birgt als Besucher. Das Kaiserreich hat sich mit Bedacht zurückgehalten, als es das Archipel eingliederte. Nach der schwierigen Eroberung der Hauptinsel und den blutigen Auseinandersetzungen mit Tarakus scheute man den **Ruf der Bluthauer**, der wie ein dunkler Schatten über der Insel liegt. Die Insel blieb so weitgehend sich selbst überlassen, ein **ungezähmtes Grenzland** im Reich.

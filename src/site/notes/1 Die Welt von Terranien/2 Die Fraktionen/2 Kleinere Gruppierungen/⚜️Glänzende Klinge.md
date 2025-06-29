@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/2-die-fraktionen/2-kleinere-gruppierungen/glaenzende-klinge/"}
 ---
 
+# ⚔️ **Die Glänzende Klinge**
+$\quad$
 > **_„Manche kämpfen, um zu überleben. Sie kämpften, damit wir leben können.“_**  
 > *— Inschrift im Ehrenrundgang des Kaiserlichen Archivs zu Ravaryn*
 

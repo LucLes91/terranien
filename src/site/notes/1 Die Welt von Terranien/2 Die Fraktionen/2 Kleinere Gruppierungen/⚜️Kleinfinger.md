@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/2-die-fraktionen/2-kleinere-gruppierungen/kleinfinger/"}
 ---
 
+# 🗝️ **Die Kleinfinger**
+$\quad$
 **_„Was klein ist, wird selten gesehen – und seltener gefasst.“_**
 
 Wer in Ravaryn oder Eloven ein fehlendes Amulett, ein entwendetes Siegel oder einen plötzlich leeren Münzbeutel beklagt, flucht oft über sie – doch niemand kann sagen, ob sie je wirklich existiert haben: **die Kleinfinger**, eine Diebesgilde, über die man nicht spricht, sondern flüstert.

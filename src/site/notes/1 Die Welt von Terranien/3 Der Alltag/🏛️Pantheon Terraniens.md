@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/3-der-alltag/pantheon-terraniens/"}
 ---
 
+# 🕊 **Pantheon Terraniens**
+$\quad$
 > **„Am Anfang war das Rad, und das Rad drehte sich in vier Bahnen – Frühling, Sommer, Herbst und Winter. So erschufen Ilun, Vael, Esha und Norys die Welt und ihr Gleichgewicht.“**  
 > _— Aus den heiligen Schriften des Ordens der Tetrarchie_
 
@@ -9,7 +11,7 @@ Nach dem zentralen Glauben des _Ordens der Tetrarchie_, der größten und staats
 
 **Ilun** hauchte der Welt neues Leben ein, **Vael** schenkte ihr Kraft und Fülle, **Esha** führte Maß und Einsicht ein, und **Norys** hüllte alles in die Stille der Erkenntnis. So entstand das _Rad des Jahres_ – ein ewiger Tanz aus Aufbruch, Wachstum, Rückzug und Erneuerung, der das Gleichgewicht allen Seins sichert.
 
-### Die Staatsreligion der Tetrarchie
+### ✨ **Die Staatsreligion der Tetrarchie**
 
 #### Ilun, der Frühlingsatem 🌱
 
@@ -51,7 +53,7 @@ Doch Norys birgt auch den Schatten des Todes, des Vergessens und der Isolation. 
 
 Anhänger Norys' sind oft Einsiedler, Mystiker, Seher und Sterbenskranke, die das Ende akzeptieren und die Kraft in der Stille suchen.
 
-### Sonstige Kulte & Religionen
+### 🕯 **Sonstige Kulte & Religionen**
 
 Über die Jahrzehnte hat sich der **Orden der Tetrachie** zum Hüter nicht nur der Lehren, sondern der gesamten Glaubensordnung des Reiches erhoben. Er schützt das Heilige vor dem Vergessen, heilt Körper wie Geist, und bewahrt mit klarem Blick jene Balance, die das Reich zusammenhält. Wo Tetraliten wirken, kehrt oft Ordnung ein – in chaotischen Dörfern, in belagerten Lazaretten, in den Schatten großer Bibliotheken.
 
@@ -60,7 +62,7 @@ Doch mit Ordnung kommt auch Kontrolle. Der Orden wacht streng darüber, was als 
 So ist aus dem einstigen Schutzbündnis eine **Macht mit Licht und Schatten** geworden – ein Bollwerk gegen das Chaos, aber auch ein Apparat der Ausgrenzung. Und während in den Zentren des Reiches nur noch die vier Jahreszeiten verehrt werden, flackern in entlegenen Winkeln alte Flammen weiter – verborgen, trotzig, niemals ganz erloschen.
 
 
-### 🌿 Die alten Zirkel
+### 🌿 **Die alten Zirkel**
 
 **Die alten Zirkel** sind lose und freie Gemeinschaften von Druiden, die – im Gegensatz zum strengen **Orden der Tetrachie** – ihren Glauben ungebunden und vielfältig leben. Sie teilen zwar den Glauben an die vier **Jahresgötter**, doch erweitern ihr Pantheon um zahlreiche kleinere **Natur- und Tiergeister**, wie den ehrwürdigen **Hirschgeist**, der als Wächter der uralten Wälder gilt und das Gleichgewicht zwischen Leben und Tod wahrt, oder die scheuen **Schutznymphen der Quellen**, deren sanftes Flüstern das Reinigen von Körper und Seele symbolisiert. Diese tiefe Verbundenheit mit der wilden Natur prägt ihren Weg.
 
@@ -68,7 +70,7 @@ Das **Kaiserreich** und der **Orden** betrachten die Zirkel als **Heiden**, duld
 
 
 
-### 🌊 Der Tiefengott der See
+### 🌊 **Der Tiefengott der See**
 
 **Der Kult des Tiefengottes** verehrt **Vhal’Thun**, den namenlosen Herrn der Meeresgründe und Nebel. Einst von den Inselbewohnern des **Hochsee-Archipels** als mächtiger Schutzgeist verehrt, steht **Vhal’Thun** heute für die **alte Ordnung** und die **Autonomie** der Inseln – ein Symbol des Widerstands gegen das wachsende **Reich** und seine strengen Götter.
 
@@ -81,7 +83,7 @@ So lebt der Kult des **Tiefengottes** als verborgener Schatten im Glaubensmosaik
 
 
 
-### ⛧ Die vergessenen Götter der Völker
+### ⛧ **Die vergessenen Götter der Völker**
 
 Lange bevor das **Kaiserreich** seine Banner über das Land spannte und die **Tetrachie** den Glauben an die vier Jahresgötter zur Norm erhob, verehrten die Völker Terraniens ihre **eigenen Götter** – rohe, greifbare Wesen, die nicht in Licht und Ordnung lebten, sondern in **Zorn, Erinnerung und Blut**.
 

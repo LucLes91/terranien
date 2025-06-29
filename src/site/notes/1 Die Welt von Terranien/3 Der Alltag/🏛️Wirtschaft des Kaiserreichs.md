@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/3-der-alltag/wirtschaft-des-kaiserreichs/"}
 ---
 
+# 📈 **Wirtschaft des Kaiserreiches**
+$\quad$
 > **„Ordnung durch Handel. Stärke durch Struktur.“**  
 > —  Leitspruch der Münzkompanie
 
@@ -9,7 +11,7 @@ Wenn man im Herzen des Reiches den Klang des Reichtums hören möchte, lauscht m
 
 Die Wirtschaft Terraniens ist ein Geflecht aus althergebrachter Arbeit, wachsendem Handel und eiserner Ordnung. Vom blühenden Markt in der Kaiserstadt bis zum Salztausch im Hochsee-Archipel – überall bestimmt der Fluss des Silbers und Goldes, wer isst, wer hungert und wer herrscht. In dieser Welt der Werte ist es die Münzkompanie, die den Strom lenkt.
 
-## **Münzen und Zahlungsmittel**
+### 🪙 **Münzen und Zahlungsmittel**
 
 Die offizielle Währung Terraniens ist der **Aurin**, geprägt in Gold und Silber. Seine Zuverlässigkeit und einheitliche Maße verdankt das Reich der Münzkompanie, die allein das Recht besitzt, Münzen zu schlagen, Wechselbriefe auszustellen und Handelsstandards festzusetzen. Ihre Münzen tragen das Symbol des Greifen – nicht wegen der Krone, sondern wegen der Kompanie.
 
@@ -18,17 +20,17 @@ Die offizielle Währung Terraniens ist der **Aurin**, geprägt in Gold und Silbe
 
 Daneben existieren regionale Besonderheiten: Muschelgeld in den Inseln, Ätherkristallsplitter als Wechselwährung unter Alchemisten, alte Plageprägungen, die man besser nicht annimmt – und natürlich Tauschhandel in den entlegensten Winkeln des Reiches.
 
-## **Die Macht der Münzkompanie**
+### 🏦 **Die Macht der Münzkompanie**
 
 Die Münzkompanie ist keine Gilde. Sie ist Gesetz. Sie erhebt Zölle, genehmigt Handelslizenzen, prüft Maße und sorgt dafür, dass Handel nicht nur möglich, sondern profitabel bleibt – zumindest für jene, die sich ihrem System unterwerfen. Wer am Markt bestehen will, unterliegt ihrer Ordnung.
 
 In vielen Städten besitzt die Kompanie eigene Zählhäuser und Wechselstuben. Sie bietet Darlehen an Fürsten, legt Handelsrouten fest und kontrolliert durch das Triumvirat ihrer Obersten, was gekauft, verkauft und versteuert wird. Niemand weiß genau, wie reich die Kompanie wirklich ist. Aber jeder Händler weiß, was es kostet, sie zu ignorieren.
 
-## **Löhne, Lebensunterhalt und Kaufkraft**
+### 🧮 **Löhne, Lebensunterhalt und Kaufkraft**
 
 Das Reich ist kein Ort der Gleichheit. Wer arbeitet, verdient – doch nicht jeder gleich. Während Tagelöhner froh sind, am Abend ein paar Argen und eine warme Suppe zu haben, handeln Kaufleute mit Summen, die ganze Dörfer ernähren könnten. Der Wohlstand der Städte steht im harten Kontrast zum Überlebenskampf auf dem Land.
 
-### 🎒 Tageslöhne
+#### 🎒 Tageslöhne
 
 | Beruf                    | Tageslohn                     |                                    |
 | ------------------------ | ----------------------------- | ---------------------------------- |
@@ -41,7 +43,7 @@ Das Reich ist kein Ort der Gleichheit. Wer arbeitet, verdient – doch nicht jed
 
 Eine Hütte im Land kostet 5 bis 20 Aurin im Monat, ein gutes Stadthaus hingegen ein Vielfaches. Wer überleben will, muss arbeiten. Wer aufsteigen will, muss zahlen.
 
-### ⚖️ Gesellschaftliche Kaufkraft
+#### ⚖️ Gesellschaftliche Kaufkraft
 
 | Schicht        | Monatliches Einkommen Aurin | Typische Lebensführung             |
 | :------------- | --------------------------- | ---------------------------------- |
@@ -51,7 +53,7 @@ Eine Hütte im Land kostet 5 bis 20 Aurin im Monat, ein gutes Stadthaus hingegen
 | Wohlhabend     | 100–250 Aurin               | Qualität, Bildung, Einfluss        |
 | Oberschicht    | 250+ Aurin                  | Luxus, politische Macht            |
 
-## **Waren, Dienste und die Grauzonen des Marktes**
+### 🏺 **Waren, Dienste und die Grauzonen des Marktes**
 
 Der Markt Terraniens kennt keine Schranken – außer jenen, die durch Zölle, Gesetze und Gier gezogen werden. Von einfachen Brotlaiben über edle Reitpferde bis zu magischen Dienstleistungen kann man alles kaufen – wenn man den Preis kennt.
 
@@ -59,7 +61,7 @@ Doch es gibt auch andere Märkte: Schwarze, graue, geheime. Dort kauft man Wisse
 
 **Fazit: Eine Welt in Gold und Schatten**
 
-### 🧺 Alltagskosten in Terranien
+#### 🧺 Alltagskosten in Terranien
 
 |Kategorie|Item / Dienstleistung|Preis Aurin|Preis Argen|Beschreibung / Anmerkung|
 |---|---|---|---|---|
@@ -85,7 +87,7 @@ Doch es gibt auch andere Märkte: Schwarze, graue, geheime. Dort kauft man Wisse
 ||Öllampe|0,5|5|Bessere Beleuchtung|
 
 
-### ⚔️ Ausrüstung für Abenteurer & Reisende
+#### ⚔️ Ausrüstung für Abenteurer & Reisende
 
 | Kategorie                 | Ausrüstung / Item             | Preis Aurin | Preis Argen | Beschreibung                               |
 | ------------------------- | ----------------------------- | ----------- | ----------- | ------------------------------------------ |
@@ -109,7 +111,7 @@ Doch es gibt auch andere Märkte: Schwarze, graue, geheime. Dort kauft man Wisse
 |                           | Rüstungsreparatur (einfach)   | 5           | 50          | Leder oder Kettenreparatur                 |
 
 
-### 🔮 Dienstleistungen und magische Aufträge
+#### 🔮 Dienstleistungen und magische Aufträge
 
 | Dienstleistung                      | Preis Aurin | Preis Argen | Beschreibung                                   |
 | ----------------------------------- | ----------- | ----------- | ---------------------------------------------- |

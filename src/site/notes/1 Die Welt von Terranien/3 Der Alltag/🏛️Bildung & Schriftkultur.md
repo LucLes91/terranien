@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/3-der-alltag/bildung-and-schriftkultur/"}
 ---
 
+# 📚 **Bildung & Schriftkultur**
+$\quad$
 **„Was gesprochen wird, vergeht. Was geschrieben wird, bleibt – wenn man es lässt.“**
 
 In einem Reich, das von Mauern, Märkten und Magie zusammengehalten wird, ist Bildung kein Luxus, sondern Macht. Doch wie so vieles in Terranien ist auch das Wissen nicht gleich verteilt – sondern eingebettet in Stand, Herkunft und Weltanschauung.

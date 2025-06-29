@@ -2,18 +2,19 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/3-der-alltag/wetter-natur-and-umweltwahrnehmung/"}
 ---
 
-
+# 🌦 **Wetter, Natur & Umweltwahrnehmung**
+$\quad$
 > **_„Der Himmel schweigt nicht – er erzählt. Und wer zuhört, versteht das Land.“_**
 
 In Terranien ist die Natur kein stummer Hintergrund, sondern eine atmende, flüsternde Macht – gefürchtet, geehrt, verklärt. Wetter und Landschaft formen nicht nur das Leben der Menschen, sondern auch ihre Seele. Der Wind trägt Geschichten, der Nebel birgt Mahnungen, und der Regen kann Fluch oder Segen sein – je nachdem, wen man fragt.
 
-### 🌾 Der Blick der Menschen – zwischen Stadt und Steppe
+### 🌾 **Der Blick der Menschen – zwischen Stadt und Steppe**
 
 Während die Stadtbevölkerung in Landarion dem Wetter meist mit Gleichgültigkeit oder gar Verachtung begegnet – geschützt von Stein, Dampf und Dach – ist es auf dem Land der Taktgeber allen Lebens. Für Bauern, Fischer, Jäger und Herumziehende bestimmt das Wetter das Maß der Hoffnung und des Risikos. Ein einziger unerwarteter Frost kann eine ganze Ernte vernichten. Ein stummer Nebeltag in den Marschen kann bedeuten, dass jemand nicht mehr heimkehrt.
 
 Die Landbevölkerung spricht vom „Atem der Welt“, wenn es um Natur geht. Man horcht auf Vorzeichen, beobachtet Tiere, legt Opfergaben aus, wenn sich Gewitter über den Bergen sammeln. In den Städten hingegen werden Wetterphänomene zunehmend als „Störung“ betrachtet – etwas, das man mit Dach, Dampf oder Disziplin bezwingen möchte.
 
-### 🌿 Flora & Fauna – eine Welt im Wandel
+### 🌿 **Flora & Fauna – eine Welt im Wandel**
 
 Die Wälder Terraniens rauschen noch immer. Die Flüsse fließen, die Bienen sammeln, die Wölfe jagen. Und doch... irgendetwas hat sich verändert.
 
@@ -27,7 +28,7 @@ Nicht alle dieser Geschichten sind bestätigt – doch sie häufen sich.
 
 Die vertraute Natur lebt weiter: die knorrigen Harzbäume von Woronia, die leuchtenden Moorblumen um Aroven, die weiten Grasebenen der Herzlande. Doch zwischen all dem Wuchs regt sich nun auch das Unbekannte – leise, doch immer öfter.
 
-### 🌫️ Die Düstermarschen – das uralte Flüstern
+### 🌫️ **Die Düstermarschen – das uralte Flüstern**
 
 Die **Düstermarschen** waren nie freundlich – aber sie waren einst nur gefährlich. Heute wirken sie... falsch.
 
@@ -43,7 +44,7 @@ Manche sagen, der Nebel höre zu. Dass er sich bewege, nicht mit dem Wind, sonde
 
 Und es gibt Orte, die **auch der Nebel meidet.**
 
-### 🏝️ Das Hochsee-Archipel – Mikrokosmos der Elemente
+### 🏝️ **Das Hochsee-Archipel – Mikrokosmos der Elemente**
 
 Im Kontrast zu den finsteren Marschen steht das **Hochsee-Archipel** – ein Flickenteppich aus Inseln, Klimazonen und Stimmungen.
 
@@ -57,7 +58,7 @@ Im Kontrast zu den finsteren Marschen steht das **Hochsee-Archipel** – ein Fli
 
 Diese Inselwelt ist ein kleiner Kosmos für sich – ein Spiegel der Vielfalt Terraniens, aber auch ein Sammelbecken für die Rätsel, die das Reich nicht immer kontrollieren kann.
 
-### 🏗️ Landarion und der Hunger der Moderne
+### 🏗️ **Landarion und der Hunger der Moderne**
 
 Rund um die **Kaiserstadt Landarion** ändert sich das Land spürbar – nicht durch Magie oder Plage, sondern durch den Menschen selbst.
 
@@ -67,7 +68,7 @@ Manche sagen, sie sehen in der Natur nur „Rohstoff mit Grün“.
 
 Wo einst Nachtigallen sangen, heulen heute Kupferrohre. Der Boden dampft nicht mehr vor Tau, sondern vor Abwärme. Manche Tiere meiden die Umgebung, andere mutieren – oder verschwinden. Die Natur weicht nicht kampflos, aber sie weicht. Noch.
 
-### ⚡ Naturkatastrophen & flüsternde Warnungen
+### ⚡ **Naturkatastrophen & flüsternde Warnungen**
 
 Terranien kennt Stürme, Überschwemmungen, Erdbeben – doch seit der Plage liest man in ihnen mehr als nur Wetter.
 
@@ -83,5 +84,3 @@ Die Fraktionen deuten sie unterschiedlich:
 - Die **Grenzwacht**? Die schweigt. Und zieht die Klinge.
 
 In Terranien ist Natur nicht bloß Umwelt – sie ist Mitspieler, Spiegel und Richterin zugleich. Wer ihr nicht zuhört, läuft Gefahr, überhört zu werden, wenn sie warnt. Denn der Nebel kommt nicht ohne Grund. Und manchmal ist der Wind, der sich dreht, nur das erste Zeichen für das, was folgt.
-
----

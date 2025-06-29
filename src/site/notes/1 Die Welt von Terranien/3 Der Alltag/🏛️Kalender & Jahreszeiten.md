@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/3-der-alltag/kalender-and-jahreszeiten/"}
 ---
 
+# 📆 **Kalender & Jahreszeiten**
+$\quad$
 > **„In Terranien misst man die Zeit nicht nur in Tagen – sondern in Atemzügen der Welt.“**
 
 Das Jahr in Terranien ist in **zwölf Monate** unterteilt, gegliedert in **vier Jahreszeiten** zu je **drei Monaten**. Jeder Monat zählt **20 Tage**, aufgeteilt in **vier Wochen** mit jeweils **fünf Tagen**.
@@ -10,7 +12,7 @@ Dieses klare System erleichtert das Zeitverständnis und den Alltag der Bewohner
 Die Monatsnamen orientieren sich an den Jahreszeitengöttern **Ilun**, **Vael**, **Esha** und **Norys**. Jeder Jahreszeit sind drei Monate zugeordnet, die sich in **„Früher“**, **„Wahrer“** und **„Später“** gliedern:
 
 
-### 🌱 Ilun, der Frühlingsatem
+### 🌱 **Ilun, der Frühlingsatem**
 
 **Frühe Ilun | Wahre Ilun | Späte Ilun**
 
@@ -18,7 +20,7 @@ Die Jahreszeit des Aufbruchs und der Heilung. Ilun bringt neues Leben, frische H
 
 
 
-### ☀️ Vael, das Sommerherz
+### ☀️ **Vael, das Sommerherz**
 
 **Früher Vael | Wahrer Vael | Später Vael**
 
@@ -26,7 +28,7 @@ Der Sommer steht für Kraft, Reichtum und Klarheit. Vaels Einfluss sorgt für Wa
 
 
 
-### 🍂 Esha, die Herbsttrauer
+### 🍂 **Esha, die Herbsttrauer**
 
 **Frühe Esha | Wahre Esha | Späte Esha**
 
@@ -34,7 +36,7 @@ Im Herbst herrscht Maß und Einkehr. Esha bringt Ernte, Einsicht und Vergänglic
 
 
 
-### ❄️ Norys, der Winterhauch
+### ❄️ **Norys, der Winterhauch**
 
 **Früher Norys | Wahrer Norys | Später Norys**
 
@@ -42,7 +44,7 @@ Der Winter bringt Ruhe, Stille und Erkenntnis. Unter Norys’ Herrschaft ziehen 
 
 
 
-### 🕰️ Die Wochentage in Terranien
+### 🕰️ **Die Wochentage in Terranien**
 
 Die Wochen sind fünf Tage lang und tragen folgende Namen:
 
@@ -57,7 +59,7 @@ Die Wochen sind fünf Tage lang und tragen folgende Namen:
 - **Endtag**: Abschluss und Rückblick
 
 
-### 📖 Beispiel einer Datumsangabe
+### 📖 **Beispiel einer Datumsangabe**
 
 > **„Die Kompanie erwartet Geschäftsvollzug bis zum 3. Haupttag im späten Vael.“**
 

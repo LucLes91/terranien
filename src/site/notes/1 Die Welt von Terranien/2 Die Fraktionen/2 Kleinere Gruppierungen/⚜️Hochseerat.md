@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/2-die-fraktionen/2-kleinere-gruppierungen/hochseerat/"}
 ---
 
+# ⚖️ **Der Hochseerat**
+$\quad$
 **„Stolz, Salz – und ein fragiler Schwur.“**
 
 Er ist kein Kind der See, sondern des Reiches – geboren aus der Notwendigkeit, Ordnung zu stiften in einem Land aus Inseln, Nebel und Erinnerung. Seit der Eingliederung des Hochsee-Archipels ist der **Hochseerat** das Gremium, das spricht, wenn das Reich mit der Stimme der Inseln spricht – und doch bleibt seine Stimme oft die eines Fremden.

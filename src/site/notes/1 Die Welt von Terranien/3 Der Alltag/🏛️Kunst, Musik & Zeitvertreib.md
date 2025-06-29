@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/3-der-alltag/kunst-musik-and-zeitvertreib/"}
 ---
 
+# 🎭 **Kunst, Musik & Zeitvertreib**
+$\quad$
 **_„Ein Reich, das tanzt, vergisst nicht zu leben.“_**
 
 So verschieden die Lande des Reiches auch sein mögen – in einem sind sich Bauern wie Barone einig: **Langeweile ist ein Feind, der besiegt werden will.** Und sie tun es mit Musik, Spiel, Spektakel – oder einem dampfenden Bad.

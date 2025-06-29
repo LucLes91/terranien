@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/2-die-fraktionen/2-kleinere-gruppierungen/tarakische-schwurbund/"}
 ---
 
+# 🏴‍☠️ **Der Tarakische Schwurbund**
+$\quad$
 **„Die Krone duldet, was sie nicht bändigen kann."**
 
 >**„Frei ist, wer das Messer schärfer hält – oder mehr Gold in der Tasche.“**

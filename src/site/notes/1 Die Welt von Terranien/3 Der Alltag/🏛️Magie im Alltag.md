@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/3-der-alltag/magie-im-alltag/"}
 ---
 
+# 🪄 **Magie im Alltag**
+$\quad$
 **„Nicht jeder Zauber trägt einen Namen. Mancher wächst aus Staub, Schmerz – oder einem Versprechen.“**
 
 Wenn in den Hallen der Akademien von Magie gesprochen wird, meint man Sprüche, Formeln, Runen – große Werke und das Wirken der Erwählten. Doch das wahre Gesicht der Magie in Terranien ist stiller. Kleiner. Und näher am Staub der Wege als am Glanz der Türme.

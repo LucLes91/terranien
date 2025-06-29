@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/3-der-alltag/sprache-und-redensarten/"}
 ---
 
+# 💬 **Sprache und Redensarten**
+$\quad$
 **„Ein Reich erkennt man nicht an seinen Mauern – sondern an dem, was in seinen Tavernen geflüstert wird.“**
 
 In einem Land, das sich über Berge, Inseln und Marschen erstreckt, hat sich nicht nur das Recht, sondern auch die Sprache verzweigt. Zwar spricht man im ganzen Reich eine gemeinsame Hochsprache – das **Reichsidiom** –, doch dahinter liegt ein Gewirr aus Akzenten, alten Zungen und Sprichwörtern, das mehr über eine Region verrät als jedes Wappen.
@@ -41,7 +43,7 @@ Sprichwörter sind das Rückgrat der alltäglichen Kommunikation. Sie sind Humor
 Diese Sammlung ist offen – denn wie die Sprache selbst verändert sich auch ihr Klang, ihre Bilder, ihre Wirkung mit der Zeit.  
 Wer lange genug durch Terranien reist, lernt eines: Nicht alles, was gesagt wird, ist gemeint. Und nicht alles, was gemeint ist, wird gesagt.
 
-#### 🛡️ **Grenzwacht**
+#### 🛡️ Grenzwacht
 
 >**„Wenn das Schweigen antwortet, bist du zu nah.“**  
 >**„Zwischen dir und dem Ding – nur dein letzter Atem.“** 
@@ -51,7 +53,7 @@ Die Sprache der Grenzwacht ist kurz, knapp, rau. Sätze enden oft, bevor sie aus
 In Tavernen flüstert man, dass erfahrene Grenzwächter sich in **dunkleren Zungen** verständigen – **Infernalisch**, **Schattenrede**, vielleicht sogar **abgeleitete Sprachen der Plage** –, um Kreaturen der Marsch besser zu verstehen oder zu manipulieren.  
 Ob dies Wahrheit oder Legende ist, weiß niemand. Doch wer mit einem Grenzwächter redet und sich beobachtet fühlt, versteht, warum man darüber lieber nicht laut fragt.
 
-#### ⚖️ **Tetrachie**
+#### ⚖️ Tetrachie
 
 > **_„Das Rad dreht sich – du nur mit.“_**  
 >**„Ein Sommersegen vergibt, ein Winterurteil nicht.“** 
@@ -60,7 +62,7 @@ Ob dies Wahrheit oder Legende ist, weiß niemand. Doch wer mit einem Grenzwächt
 Die Sprache der Tetrachie ist bildhaft, feierlich und rituell. Viele Begriffe stammen aus dem Zyklus der Jahreszeiten oder tragen doppelte Bedeutung.  
 Jede Aussage kann auch eine Lehre sein – oder ein Urteil.
 
-#### 🛠️ **Dampfbruderschaft**
+#### 🛠️ Dampfbruderschaft
 
 > **_„Wenn’s raucht, hast du gezählt.“_**  
 >**„Zahn auf Zahn – kein Platz für Glauben.“** 
@@ -70,7 +72,7 @@ Ihre Sprache ist technisch, trocken, präzise – mit vielen Lehnwörtern aus al
 Metaphern werden vermieden. Ironie gilt als unnütz.  
 Manche Begriffe der Bruderschaft sind rein funktional, aber dennoch poetisch in ihrer Kargheit: _„Rückkopplung“, „Essenzbruch“, „Versiegelte These“._
 
-#### 🪙 **Münzkompanie**
+#### 🪙 Münzkompanie
 
 > **_„Gesiegelt ist gebunden.“_**  
  >**„Ein Handschlag zählt – wenn der Notar zuschaut.“** 
@@ -79,7 +81,7 @@ Manche Begriffe der Bruderschaft sind rein funktional, aber dennoch poetisch in 
 Die Sprache der Kompanie ist voll juristischer Formeln, gestapelter Nebensätze und doppelter Absicherungen.  
 Viele Begriffe haben eine gesetzliche und eine gesellschaftliche Bedeutung zugleich – etwa _„Anlage“_, _„Bindung“_ oder _„Eintrag“_.
 
-#### 🦅 **Greifenbrigade**
+#### 🦅 Greifenbrigade
 
 > **_„Weg. Wort. Wirkung.“_**  
 >**„Meld’s – oder trag’s.“**
@@ -88,7 +90,7 @@ Viele Begriffe haben eine gesetzliche und eine gesellschaftliche Bedeutung zugle
 Knappe, klare Sprache. Befehlston. Alles Unnötige wird gestrichen.  
 Der Ton in der Brigade ist formell, aber nicht verschachtelt – das Ziel ist Handlungsfähigkeit, nicht Eleganz.
 
-#### 🌊 **Hochsee-Archipel**
+#### 🌊 Hochsee-Archipel
 
 > **_„Sprich mit Salz, nicht mit Spucke.“_**  
 >**„Wenn der Wind lacht, zieh das Messer.“**  

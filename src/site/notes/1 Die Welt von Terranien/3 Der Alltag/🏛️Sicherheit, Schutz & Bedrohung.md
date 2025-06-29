@@ -2,12 +2,13 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/3-der-alltag/sicherheit-schutz-and-bedrohung/"}
 ---
 
-
+# 🗡 **Sicherheit, Schutz & Bedrohung**
+$\quad$
 > **_„Ordnung ist nicht das Fehlen von Gefahr. Sondern das Wissen, wem man trauen darf, wenn sie kommt.“_**
 
 Terranien ist ein Reich, das sich **aktiv um Ordnung bemüht**. In Städten, befestigten Orten und entlang der großen Handelsadern spüren die Menschen die schützende Hand des Gesetzes – durch Stadtwachen, Beamte, kaiserliche Erlasse und das sichtbare Wirken des Reiches. Doch das Reich ist groß, und seine Straßen lang. Je weiter man sich vom Herzen der Macht entfernt, desto mehr wird Sicherheit zur **Frage der Umstände** – und derer, die sie schaffen oder ausnutzen.
 
-### 🏛️ Ordnungshüter & kaiserliche Strukturen
+### 🏛️ **Ordnungshüter & kaiserliche Strukturen**
 
 In den Reichsstädten ist **Sicherheit ein funktionierender Bestandteil des Alltags**. Stadtwachen sorgen für Recht und Ordnung, überwachen Marktplätze, begleiten Transporte und greifen ein, wenn das Gesetz verletzt wird. Ihre Ausstattung, Disziplin und Verlässlichkeit unterscheiden sich zwar von Stadt zu Stadt, doch überall sind sie Ausdruck des kaiserlichen Anspruchs auf Kontrolle.
 
@@ -15,7 +16,7 @@ In kleineren Orten, Dörfern und Landgemeinden nehmen **Milizen, Gemeindevorsteh
 
 Wenn es über das Lokale hinausgeht – wenn Gefahr das Reich selbst bedroht –, tritt die **Greifenbrigade** auf den Plan. Sie ist die organisierte, schwer gerüstete Armee des Kaisers: zuständig für militärische Interventionen, überregionale Krisen, strategische Unterstützung bei Expeditionen der Münzkompanie oder der Dampfbruderschaft. Ihre Präsenz ist nicht alltäglich – doch wenn sie erscheint, weiß man, dass etwas von Bedeutung geschieht.
 
-### 🐍 Abweichungen & Unsichtbares
+### 🐍 **Abweichungen & Unsichtbares**
 
 Nicht alles, was das Reich bedroht, trägt Klinge oder Banner. Manche Gefahren kommen leise, in feinen Kleidern, mit weichen Stimmen.
 
@@ -29,7 +30,7 @@ Auch andere Erscheinungen fallen durch das Raster:
 
 Und dann gibt es noch die **Grenzwacht** – eine Macht fernab der Welt der meisten. Ihre Aufgabe liegt ausschließlich in den **Düstermarschen**, an den dunklen Rändern des Bekannten. Man erzählt von ihnen, als wäre es ein anderes Reich. Und für viele ist es das. Sie erscheinen nicht im Alltag. Doch ihr Schweigen ist Teil der Ordnung – denn solange sie schweigen, ist das Schlimmste fern geblieben.
 
-### 💀 Was die Menschen fürchten
+### 💀 **Was die Menschen fürchten**
 
 Angst ist in Terranien allgegenwärtig – nicht als lähmender Schrei, sondern als **leises Zittern unter der Haut**. Sie variiert, je nachdem, wo man steht – und wie hoch man dort steht.
 
@@ -41,7 +42,7 @@ In den höheren Schichten fürchtet man den **Verlust von Kontrolle**: über Unt
 
 Und über all dem liegt eine tiefer gehende Furcht: die vor dem **Unbekannten**, dem **Wiederkehrenden**, dem **Alten**. Die Plage mag geschlagen sein – doch sie hat Risse hinterlassen, und manchmal hört man, dass aus diesen Rissen Stimmen flüstern. Keine Schicht ist davon ausgenommen. Nur unterschiedlich still darüber.
 
-### ⚔️ Söldner, Mietlinge & Abenteurergilden
+### ⚔️ **Söldner, Mietlinge & Abenteurergilden**
 
 Nicht jeder verlässt sich auf kaiserliche Wachen. Wer Einfluss, Feinde oder Fracht hat, der sichert sich anders ab – durch **Klingen, die man sich leisten kann**.
 
