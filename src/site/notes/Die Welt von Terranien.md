@@ -4,9 +4,10 @@
 
 # 🧙 Willkommen, Wanderer & Reisende
 
+$\quad$
 > ***„Jene, die diese Seiten durchstreifen, sind mehr als bloße Gäste – sie sind Erzähler, Entdecker, Erbe einer Welt im Wandel.“***
 
-
+$\quad$
 ### 🎲 Was ist diese Seite?
 
 Diese Webseite ist **dein Begleiter durch die Welt von Terranien**, speziell für alle Spielerinnen und Spieler unserer Pen-&-Paper-Runden. Hier findest du:
@@ -18,6 +19,8 @@ Diese Webseite ist **dein Begleiter durch die Welt von Terranien**, speziell fü
 
 Ob du zum ersten Mal den Nebeln der Düstermarschen begegnest oder tief in die Intrigen des Reichskonzils eintauchst – hier findest du alles, was du brauchst, um Teil dieser lebendigen Welt zu sein.
 
+$\quad$
+$\quad$
 ---
 
 ### 🗨️ Neuigkeiten & Mitteilungen
@@ -26,28 +29,26 @@ Ob du zum ersten Mal den Nebeln der Düstermarschen begegnest oder tief in die I
 > *– Beispiel: „Vergesst nicht, bis Sonntag euren Charakterbogen hochzuladen.“*  
 > *– Beispiel: „Die Regelübersicht für Kämpfe ist überarbeitet – siehe [Regelwerk/Kampfregeln](Regelwerk/Kampfregeln.md).“*
 
+$\quad$
 ### 📅 Nächster Spieltermin
 
 > **🗓 Samstag, 13. Juli 2025 – 19:00 Uhr, bei Lena oder online (TBD)**  
 > *(Bitte Rückmeldung bis Mittwoch!)*
 
+$\quad$
 ---
 
-# 📚 Entdecke die Welt von Terranien
-
+$\quad$
 $\quad$
 
-### Prolog
+# 🏰 Entdecke die Welt von Terranien
 
-- [[1 Die Welt von Terranien/1 Prolog/📜Disclaimer & Vorwort\|📜Disclaimer & Vorwort]]
-- [[1 Die Welt von Terranien/1 Prolog/📜Entstehung des Kaiserreiches\|📜Entstehung des Kaiserreiches]]
-- [[1 Die Welt von Terranien/1 Prolog/📜Vom Erwachen der Plage\|📜Vom Erwachen der Plage]]
-
-### Die großen Fraktionen
-
-- [[1 Die Welt von Terranien/2 Die Fraktionen/1 Große Fraktionen/⚜️Dampfbruderschaft\|⚜️Dampfbruderschaft]]
-- [[1 Die Welt von Terranien/2 Die Fraktionen/1 Große Fraktionen/⚜️Greifenbrigade\|⚜️Greifenbrigade]]
-- [[1 Die Welt von Terranien/2 Die Fraktionen/1 Große Fraktionen/⚜️Grenzwacht\|⚜️Grenzwacht]]
-- [[1 Die Welt von Terranien/2 Die Fraktionen/1 Große Fraktionen/⚜️Münzkompanie\|⚜️Münzkompanie]]
-- [[1 Die Welt von Terranien/2 Die Fraktionen/1 Große Fraktionen/⚜️Orden der Tetrachie\|⚜️Orden der Tetrachie]]
-- [[1 Die Welt von Terranien/2 Die Fraktionen/1 Große Fraktionen/⚜️Reichskonzil\|⚜️Reichskonzil]]
+**$\quad$**
+###### **📜 [[Der Lore-Bereich\|Der Lore-Bereich]]**
+$\quad$$\quad$ Hier findet du alles wissenswerte zu Fraktionen, NPCs und der Welt.
+$\quad$
+###### 🎲 **[[Der Spieler-Bereich\|Der Spieler-Bereich]]**
+$\quad$$\quad$ Hier sind für dich alle nötigen Infos zu Regelwerk, SCs und Sessions.
+$\quad$
+######  🎩 **[[Der Spielleiter-Bereich\|Der Spielleiter-Bereich]]**
+$\quad$$\quad$ Hier lagern meine benötigten Materialien und Quests, kein Zutritt 😏.
