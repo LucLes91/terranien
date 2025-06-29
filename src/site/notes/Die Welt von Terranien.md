@@ -26,8 +26,8 @@ $\quad$
 ###### **Allgemeine Ankündigungen**
 > *Hier erscheinen aktuelle Infos, spontane Hinweise oder Gedanken des Spielleiters.* 
 > 
-> ***Die Lore-Einträge zu den Fraktionen (sowohl große, als auch kleine), sind fertig und online.***
-> ***Die Lore-Einträge der Themen über den Alltag und die Gesellschaft in Terranien sind ebenfalls online.***
+>-  ***Die Lore-Einträge zu den Fraktionen (sowohl große, als auch kleine), sind fertig und online.***
+> - ***Die Lore-Einträge der Themen über den Alltag und die Gesellschaft in Terranien sind ebenfalls online.***
 > 
 
 
