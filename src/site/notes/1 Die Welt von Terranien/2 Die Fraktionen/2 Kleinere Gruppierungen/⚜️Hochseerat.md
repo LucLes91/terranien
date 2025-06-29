@@ -12,6 +12,8 @@ Er tagt in Ravaryn, unter wettergegerbtem Dach, in einer Halle aus dunklem Holz 
 
 Seydran, ein Mann mit wetterfestem Blick und der Stimme eines erfahreneren Kapitäns, gilt als Architekt des heutigen Gleichgewichts. Von manchen wird er als Brückenbauer gefeiert – von anderen als Verräter an den freien Inseln geschmäht.
 
+![Hochseerat1.png](/img/user/4%20Dateien/Hochseerat1.png)
+
 > **„Wer die Inseln halten will, muss mit Ebbe und Stolz zugleich verhandeln.“**
 
 Der Rat erhebt **Zölle**, vergibt **Schifffahrtsrechte**, schlichtet **Streit zwischen Häusern** und kontrolliert die **Pflichtflotte** – eine kleine, aber schlagkräftige Seemacht. Er sorgt für **Handel**, für **Stabilität**, für **Verbindlichkeit** in einer Region, deren Bewohner einst nichts als den eigenen Kurs kannten. Und doch ist er mehr als Verwaltung: Er ist Bollwerk gegen Aufruhr, Spiegel des Wandels – und Schachfigur im Spiel zwischen Reichstreue und Inselsinn.

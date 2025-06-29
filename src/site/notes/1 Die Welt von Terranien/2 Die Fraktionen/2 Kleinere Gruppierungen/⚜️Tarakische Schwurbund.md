@@ -25,6 +25,8 @@ $\quad$
 
 Im Gegenzug darf Tarakus in vielem tun, was andernorts als Piraterie gelten würde. Die Stadt lebt vom Schwarzhandel, von **illegalem Fischfang, Glücksspiel, Söldnergeschäften** – und vom Ruf, dass hier jeder Zuflucht findet, der genug zahlt oder genug Feuerkraft mitbringt. Es gibt auch **Gerüchte** über blutige Wettkämpfe **zwischen Sklaven, Freibeutern und Gladiatoren**, die in den Arenen von Tarakus stattfinden. Man sagt, wer in diesen Kämpfen überlebt, ***verdient mehr als nur Gold – er verdient Respekt***. Und wenn das nicht reicht, gibt es immer noch die Möglichkeit, sein Leben in einem der finsteren Wettenkämpfe der Stadt zu setzen, wo der Einsatz nicht nur Gold, sondern auch Freiheit sein kann. 
 
+![Tarakus1.png](/img/user/4%20Dateien/Tarakus1.png)
+
 Doch dieser Pakt mit dem Kaiserreich ist **kein Bund aus Loyalität, sondern aus Zweckmäßigkeit**. Der Tarakische Schwurbund stellt bei Bedarf Freibeuter, eskortiert heikle Fracht oder jagt abtrünnige Schiffe – sofern der Preis stimmt. Ein gefährliches Spiel, denn viele im Schwurbund träumen von Tagen ohne Pakt, ohne Kompromiss.
 **Der Rat der Planken**, eine lockere Versammlung der mächtigsten Kapitäne, soll den Zusammenhalt wahren. Doch er ist kein Parlament – eher ein stürmisches Gelage, bei dem Allianzen so schnell wechseln wie die Strömung. Es gibt keine zentrale Autorität, keine Oberkommandierenden. Jeder Kapitän führt nach eigenem Gutdünken, und Loyalitäten sind flüchtig wie Dünung im Morgengrauen.
 

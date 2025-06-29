@@ -10,6 +10,8 @@ Wer in Ravaryn oder Eloven ein fehlendes Amulett, ein entwendetes Siegel oder ei
 
 Ihr angeblicher Codex? Man sagt, **kein Mitglied der Kleinfinger reiche einem Zwerg über die Schulter** – nicht, weil es ihnen an Mut fehlte, sondern an Größe. Ob das ein Zufall oder ein uraltes Prinzip ist, weiß niemand mit Sicherheit.
 
+![Kleinfinger1.png](/img/user/4%20Dateien/Kleinfinger1.png)
+
 Die einen erzählen sich, der erste Meister der Gilde sei ein Halbling gewesen, der einst von einem hochgewachsenen Dieb verraten wurde – seither dulde die Gilde nur jene, die „den Schatten klein genug halten, um darin zu verschwinden“. Andere wiederum munkeln, die Kleinfinger glaubten an einen alten Fluch: **Wenn ein Langbein ihren Kreis betritt, verblassen ihre Gaben – und mit ihnen die Kunst des lautlosen Verschwindens.**
 
 Und dann gibt es noch jene, die kichern und sagen: **Einmal hat man wohl einen Ork aufgenommen – aber der hat sich beim Einbruch am Türrahmen gestoßen, den Lord geweckt und beim Davonlaufen das halbe Treppenhaus zerlegt.** Seither heißt es: _„Ein Kleinfinger passt durchs Schlüsselloch. Alles andere ist Einbruch mit Ansage.“_

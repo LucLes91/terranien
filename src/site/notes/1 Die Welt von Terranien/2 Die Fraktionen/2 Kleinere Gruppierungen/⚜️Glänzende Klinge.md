@@ -49,3 +49,5 @@ Man sagt, selbst alte Bäume neigen sich, wenn sie mit ihnen spricht. Und Tharos
 Ein Held ist keine Statue. Er ist jemand, der weitergeht, wenn andere schon stehen. Die Glänzende Klinge bestand aus sechs solcher Menschen – und Wesen.  
 Sie trugen das Reich nicht auf ihren Schultern, aber sie stützten es, als es zu fallen drohte.  
 Und wer heute leise lauscht, wenn Legenden erzählt werden – der hört sie noch: die Stimmen, die Schritte, das Schimmern einer Klinge in dunkler Nacht.
+
+![Klinge1.png](/img/user/4%20Dateien/Klinge1.png)

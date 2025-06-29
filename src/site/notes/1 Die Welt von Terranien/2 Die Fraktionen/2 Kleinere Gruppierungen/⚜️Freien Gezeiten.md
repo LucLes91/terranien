@@ -18,6 +18,8 @@ Sevrins Tod, der als Märtyrer in den Kämpfen fiel, wurde zur **Geburtsstunde d
 
 **Die Ideologie** dieser Gruppe ist geprägt von einer tiefen Überzeugung in das maritime Leben der Inseln. Ihre Vorstellungen von Freiheit sind nicht die des Hochadels oder der Bürokratie, sondern der Freiheit des Handels, des Lebens in engem Einklang mit der Natur, der See und den Traditionen der Ahnen. Sie verachten die „Zivilisation“ und den „Reichtum“ des Kaiserreichs, das sie als eine Art „Falle“ für die Seele der Inseln ansehen.
 
+![Gezeiten1.png](/img/user/4%20Dateien/Gezeiten1.png)
+
 >**„Die Flut kennt kein Gesetz“**
 
 **Die Freien Gezeiten sammeln Unterstützung aus verschiedenen Bereichen des Archipels.** Einige Inselbewohner fürchten die zunehmende Einmischung des Kaiserreichs in ihre täglichen Angelegenheiten, die verstärkte Kontrolle über ihre Ressourcen und die Einschränkung des freien Handels, der das Herzstück ihrer Inselkultur bildet. Diese Menschen schätzen die Unabhängigkeit, die mit der Freiheit der See und den alten Traditionen einhergeht, und sehen in der imperialen Herrschaft eine Bedrohung ihrer Lebensweise. Doch nicht alle teilen diese Meinung. Andere Bewohner des Archipels sehen im Kaiserreich eine Quelle von Ordnung, Sicherheit und Wohlstand. Sie wissen den Fortschritt zu schätzen, den das Kaiserreich mit sich bringt – den Aufschwung des Handels, die Verbesserung der Infrastruktur und die Aussicht auf einen stabileren Lebensstandard.
