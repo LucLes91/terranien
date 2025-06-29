@@ -3,7 +3,7 @@
 ---
 
 # 📈 **Wirtschaft des Kaiserreiches**
-$\quad$
+
 > **„Ordnung durch Handel. Stärke durch Struktur.“**  
 > —  Leitspruch der Münzkompanie
 
