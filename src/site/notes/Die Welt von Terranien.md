@@ -20,7 +20,6 @@ Diese Webseite ist **dein Begleiter durch die Welt von Terranien**, speziell fü
 Ob du zum ersten Mal den Nebeln der Düstermarschen begegnest oder tief in die Intrigen des Reichskonzils eintauchst – hier findest du alles, was du brauchst, um Teil dieser lebendigen Welt zu sein.
 
 $\quad$
-$\quad$
 ---
 
 ### 🗨️ Neuigkeiten & Mitteilungen
@@ -35,10 +34,8 @@ $\quad$
 > **🗓 Samstag, 13. Juli 2025 – 19:00 Uhr, bei Lena oder online (TBD)**  
 > *(Bitte Rückmeldung bis Mittwoch!)*
 
-$\quad$
 ---
 
-$\quad$
 $\quad$
 
 # 🏰 Entdecke die Welt von Terranien
