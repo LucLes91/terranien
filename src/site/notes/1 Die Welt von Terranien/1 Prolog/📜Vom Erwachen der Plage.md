@@ -3,7 +3,7 @@
 ---
 
 ![Verzierung2.png](/img/user/4%20Dateien/Verzierung2.png)
-Vor etwa hundertzwanzig Jahren begann etwas, das kein Chronist recht benennen konnte – und kein Zeitalter je vergessen wird. Terranien wandelte sich – nicht durch Eroberung, nicht durch Revolution, sondern durch etwas, das niemand kommen sah. Die Gelehrten nennen es die **Plage**, doch der Name ist ein _Schleier_, nicht das Wesen. Denn was über das Land kam, war nicht Krankheit, nicht Fluch, nicht Zauber.  
+Vor etwa achtzig Jahren begann etwas, das kein Chronist recht benennen konnte – und kein Zeitalter je vergessen wird. Terranien wandelte sich – nicht durch Eroberung, nicht durch Revolution, sondern durch etwas, das niemand kommen sah. Die Gelehrten nennen es die **Plage**, doch der Name ist ein _Schleier_, nicht das Wesen. Denn was über das Land kam, war nicht Krankheit, nicht Fluch, nicht Zauber.  
 Es war ein _**Riss in der Wirklichkeit selbst.**_
 
 > _**„Denn was über uns kam, war keine Invasion – es war ein Fehler in der Welt.“**_  
