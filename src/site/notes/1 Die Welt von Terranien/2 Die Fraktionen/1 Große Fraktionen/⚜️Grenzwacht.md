@@ -8,6 +8,8 @@ $\quad$
 
 Wenn in den prunkvollen Hallen der Kaiserstadt von Helden, Heeren und Hoffnung gesprochen wird, fällt ihr Name selten. Und doch sind sie es, die an den zermürbten Grenzen der Zivilisation stehen – mit kaltem Blick, müden Knochen und gezückter Klinge. Die **Grenzwacht** ist das Schild, das zwischen den Herzlanden Terraniens und den düsteren Auswüchsen der Düstermarschen gespannt wurde. Kein Ruhm erwartet sie dort. Nur Pflicht.
 
+![Grenzwacht2.png](/img/user/4%20Dateien/Grenzwacht2.png)
+
 Die **Düstermarschen**, wie man das finstere Grenzland im Westen nennt, erstrecken sich als ein endlos scheinendes Labyrinth aus dichten, unkartographierten Wäldern, fauligen Sümpfen und nebelverhangenen Lichtungen. Träge Nebel schleichen zwischen verfallenen Ruinen, deren Ursprung niemand mehr kennt. Wie weit sich dieses Land wirklich erstreckt oder was in seinem Herzen ruht, ist bis heute ungeklärt. Die Grenzwacht unterhält daher waghalsige Expeditionen ins Unbekannte – mit dem Ziel, das Fremde zu kartieren, zu verstehen oder zumindest rechtzeitig zu erkennen, wenn sich etwas dort regt, das sich nicht regen sollte.
 
 Gegründet aus der bitteren Lehre der Plagezeit, wurde die Grenzwacht ins Leben gerufen, um ein wachsames Auge auf jene dunklen Lande zu werfen, aus denen das Unheil einst über die Welt hereinbrach. Ihre Aufgabe ist kein Krieg – sie soll verhindern, dass es wieder zu einem kommt. Sie beobachten, melden, stören – und wenn es sein muss, kämpfen und sterben. Denn niemand sonst darf je wieder unvorbereitet sein, sollte das Grauen zurückkehren.
@@ -25,6 +27,8 @@ Denn eines ist sicher: **Wer der Wacht dient, bleibt nicht, wer er war.**
 ### 🪓 **Struktur, Schwur & Führung**
 
 Die Grenzwacht kennt keine Paradeformationen, kein glanzvolles Banner, keine Trommeln. Ihre Stärke liegt im **Ertragen, Erkennen, Entscheiden** – dort, wo kein Befehl mehr hilft. Ihr hoher Autonomiegrad ist aus der Not geboren: In einer Region, in der keine Befehle mehr ankommen, braucht es Entscheidungskraft vor Ort. Formal dem Kaiser unterstellt, agiert sie de facto **eigenständig**.
+
+![Grenzwacht1.png](/img/user/4%20Dateien/Grenzwacht1.png)
 
 Angeführt wird sie vom uralten Hobgoblin **Rukkhan**, genannt **„der alte Graue“** – ein wettergegerbter Überlebender der Plage, einst einfacher Soldat, heute Legende.  
 Kein Orden ziert seine Brust, kein Titel schmückt seinen Namen – doch innerhalb der Wacht genügt ein Blick, um klarzustellen, wer das Sagen hat.

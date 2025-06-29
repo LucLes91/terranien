@@ -18,6 +18,8 @@ Sie ist nicht bloß ein Handelsbund – sie ist der **stille Taktgeber**, der ü
 Die Münzkompanie ist das **Herz der kaiserlichen Bürokratie** – effizient, unbestechlich, und für Außenstehende undurchschaubar wie ein gut verschlossenes Handelshaus.  
 Wo der Apparat des Reiches zu schwerfällig wird, tritt die Kompanie in Erscheinung – mit Zahlen statt Zeptern, mit Tabellen statt Trommeln. Sie koordiniert Handelsrouten, überwacht Zollstationen, vergibt Lagerrechte und lizenziert fast jede größere Warenbewegung im Reich.
 
+![Münzkompanie2.png](/img/user/4%20Dateien/M%C3%BCnzkompanie2.png)
+
 Doch ihre Tätigkeit endet nicht an den Reichsgrenzen – im Gegenteil: **Gerade dort beginnt ihre eigentliche Reichweite.** In fernen Landstrichen, in denen das Kaiserreich nur noch symbolisch präsent ist, übernimmt die Kompanie eigenständig **Expeditionen, Rohstoffsicherung und Handelsgründungen**.  
 Mit ihren eigenen Schiffen, Kartographen und bewaffneten Geleitschaften erschließt sie Inseln, Minen, Flusstäler und neue Routen – und errichtet dabei oft **Kontore, bevor ein kaiserliches Banner weht**.  
 Ihre Verträge gelten dort als Gesetz, ihre Lager als Festungen. Und auch wenn stets „im Namen des Reiches“ gehandelt wird, weiß man: **Wer die Route öffnet, benennt sie auch.**
@@ -55,6 +57,8 @@ Jedes Mitglied schwört bei Aufnahme ins Handelsbuch:
 
 Die Münzkompanie ist keine Armee – und doch marschiert sie.  
 Keine Kirche – und doch hat sie Gläubige. Kein Adelshaus – und doch nennt sie ganze Städte ihr Eigen.
+
+![Münzkompanie1.png](/img/user/4%20Dateien/M%C3%BCnzkompanie1.png)
 
 > **Sie handeln nicht mit Waren. Sie handeln mit Ordnung.**  
 > Und wer in ihren Büchern nicht auftaucht, existiert vielleicht – aber nicht lange.

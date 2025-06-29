@@ -8,6 +8,8 @@ $\quad$
 
 Obgleich das Reich formal unter dem Banner einer Erbmonarchie steht, war es doch schon **Kaiser Demios I.**, der erkannte, dass ein weiser Herrscher nicht allein herrschen sollte. Und so stützte er seine Entscheidungen auf den Beistand eines Konzils – jenes ehrwürdige Gremium, das seither gleichsam **die Stimme der Regierung und das Gewissen der Nation** verkörpert.
 
+![Konzil2.png](/img/user/4%20Dateien/Konzil2.png)
+
 Das Konzil wurde ins Leben gerufen, um dem Kaiser nicht nur Rat zu spenden, sondern auch das vielstimmige Echo Terraniens widerhallen zu lassen – **die Sorgen seiner Städte, die Ambitionen seiner Fraktionen, den Atem seines Volkes**. Aus diesem Grund schreibt das Gesetz vor, dass das Gremium **niemals weniger als acht Mitglieder** zählen darf – acht Stimmen, die gemeinsam das Mosaik des Reiches spiegeln.
 
 ### ⚖️ **Funktion, Einfluss & Zwischentöne**
@@ -36,6 +38,8 @@ Das Konzil besteht aus acht stimmberechtigten Mitgliedern:
 
 Derzeit führt **Kanzler Varis Carnagil** den Vorsitz – ein Mann, dessen Name im Reich **mit Respekt, aber auch mit Vorsicht ausgesprochen wird**.  
 In den finsteren Tagen der Plage stand er an vorderster Front als Mitglied der legendären Heldengruppe **„die Glänzende Klinge“**. Später diente er in der **Greifenbrigade**, wo Tapferkeit und Disziplin seinen Ruf festigten.
+
+![Konzil1.png](/img/user/4%20Dateien/Konzil1.png)
 
 Es war **Königinmutter Alfania**, die ihn in einer Zeit des Übergangs aus dem Militär in die Politik berief – überzeugt davon, dass das Reich einen Kanzler brauche, der **unbestechlich ist und gleichzeitig mit dem Schwert vertraut**.  
 Seit nunmehr einem halben Jahrzehnt lenkt Carnagil mit ruhiger Hand das Konzil – ein Mann, dessen Worte schwerer wiegen als manch königlicher Erlass. Man sagt: _Wenn er spricht, hält selbst der Kaiser inne._
