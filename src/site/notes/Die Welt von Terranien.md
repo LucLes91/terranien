@@ -5,7 +5,6 @@
 $\quad$
 # 🧙 Willkommen, Wanderer & Reisende
 
-$\quad$
 > ***„Jene, die diese Seiten durchstreifen, sind mehr als bloße Gäste – sie sind Erzähler, Entdecker, Erbe einer Welt im Wandel.“***
 
 $\quad$
@@ -23,16 +22,20 @@ Ob du zum ersten Mal den Nebeln der Düstermarschen begegnest oder tief in die I
 ---
 
 ### 🗨️ Neuigkeiten & Mitteilungen
-
+$\quad$
+###### **Allgemeine Ankündigungen**
 > *Hier erscheinen aktuelle Infos, spontane Hinweise oder Gedanken des Spielleiters.*  
-> *– Beispiel: „Vergesst nicht, bis Sonntag euren Charakterbogen hochzuladen.“*  
-> *– Beispiel: „Die Regelübersicht für Kämpfe ist überarbeitet – siehe [Regelwerk/Kampfregeln](Regelwerk/Kampfregeln.md).“*
 
 $\quad$
-### 📅 Nächster Spieltermin
+###### **The Autistic Five**
+> *Hier erscheinen für die jeweilige Gruppe bestimmte Ankündigungen und Informationen
 
-> **🗓 Samstag, 13. Juli 2025 – 19:00 Uhr, bei Lena oder online (TBD)**  
-> *(Bitte Rückmeldung bis Mittwoch!)*
+$\quad$
+### 📅 Nächste Spieltermine
+$\quad$
+###### **The Autistic Five**
+> **🗓 Sonntag 17.08.2025 – 14:00 Uhr bei Lucas zu Hause.
+> $\quad$$\quad$$\quad$*(Bitte Rückmeldung bis 10.08.2025)*
 
 ---
 
@@ -49,3 +52,4 @@ $\quad$$\quad$ Hier sind für dich alle nötigen Infos zu Regelwerk, SCs und Ses
 
 ######  🎩 **[[Der Spielleiter-Bereich\|Der Spielleiter-Bereich]]**
 $\quad$$\quad$ Hier lagern meine benötigten Materialien und Quests, kein Zutritt 😏.
+$\quad$
