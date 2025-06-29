@@ -7,6 +7,7 @@ $\quad$
 $\quad$
 > ***„Jene, die diese Seiten durchstreifen, sind mehr als bloße Gäste – sie sind Erzähler, Entdecker, Erbe einer Welt im Wandel.“***
 
+$\quad$
 ### 🎲 Was ist diese Seite?
 
 Diese Webseite ist **dein Begleiter durch die Welt von Terranien**, speziell für alle Spielerinnen und Spieler unserer Pen-&-Paper-Runden. Hier findest du:
@@ -21,16 +22,16 @@ Ob du zum ersten Mal den Nebeln der Düstermarschen begegnest oder tief in die I
 ---
 
 ### 🗨️ Neuigkeiten & Mitteilungen
-
+$\quad$
 ###### **Allgemeine Ankündigungen**
-> **Hier erscheinen aktuelle Infos, spontane Hinweise oder Gedanken des Spielleiters.**  
+> ***Hier erscheinen aktuelle Infos, spontane Hinweise oder Gedanken des Spielleiters.***  
 
 ###### **The Autistic Five**
-> **Hier erscheinen für die jeweilige Gruppe bestimmte Ankündigungen und Informationen**
+> ***Hier erscheinen für die jeweilige Gruppe bestimmte Ankündigungen und Informationen***
 
 $\quad$
 ### 📅 Nächste Spieltermine
-
+$\quad$
 ###### **The Autistic Five**
 > **🗓 Sonntag 17.08.2025 – 14:00 Uhr bei Lucas zu Hause.
 > $\quad$$\quad$$\quad$(Bitte Rückmeldung bis 10.08.2025)**
