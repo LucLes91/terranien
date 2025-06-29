@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/2-die-fraktionen/2-kleinere-gruppierungen/freien-gezeiten/"}
 ---
 
-# 🌊 **Die Freien Gezeiten
+# 🌊 **Die Freien Gezeiten**
 $\quad$
 **_Die Rebellen des Archipels_**
 
