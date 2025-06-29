@@ -3,12 +3,9 @@
 ---
 
 
-
-
-
 ![Vorwort.png](/img/user/4%20Dateien/Vorwort.png)
 
-### 🏰Willkommen in Terranien
+### 🏰 Willkommen in Terranien
 
 _Ein paar Worte vorab an alle Leser, Spieler und Weltenwanderer_
 
