@@ -3,7 +3,7 @@
 ---
 
 # 📆 **Kalender & Jahreszeiten**
-$\quad$
+
 > **„In Terranien misst man die Zeit nicht nur in Tagen – sondern in Atemzügen der Welt.“**
 
 Das Jahr in Terranien ist in **zwölf Monate** unterteilt, gegliedert in **vier Jahreszeiten** zu je **drei Monaten**. Jeder Monat zählt **20 Tage**, aufgeteilt in **vier Wochen** mit jeweils **fünf Tagen**.
