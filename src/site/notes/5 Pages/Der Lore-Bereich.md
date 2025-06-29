@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/5-pages/der-lore-bereich/"}
 ---
 
-$\quad$
+# 🔍 **Der Almanach des Reiches**
+**$\quad$**
 > **🌌 Die Welt von Terranien – Wissen & Legenden**
 
 $\quad$
