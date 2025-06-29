@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-die-welt-von-terranien/1-prolog/disclaimer-and-vorwort/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/1-die-welt-von-terranien/1-prolog/disclaimer-and-vorwort/"}
 ---
 
 
