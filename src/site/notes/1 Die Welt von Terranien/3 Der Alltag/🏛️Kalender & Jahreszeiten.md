@@ -9,6 +9,8 @@
 Das Jahr in Terranien ist in **zwölf Monate** unterteilt, gegliedert in **vier Jahreszeiten** zu je **drei Monaten**. Jeder Monat zählt **20 Tage**, aufgeteilt in **vier Wochen** mit jeweils **fünf Tagen**.
 Dieses klare System erleichtert das Zeitverständnis und den Alltag der Bewohner.
 
+![Jahreszeiten.png](/img/user/4%20Dateien/Jahreszeiten.png)
+
 Die Monatsnamen orientieren sich an den Jahreszeitengöttern **Ilun**, **Vael**, **Esha** und **Norys**. Jeder Jahreszeit sind drei Monate zugeordnet, die sich in **„Früher“**, **„Wahrer“** und **„Später“** gliedern:
 
 
@@ -67,3 +69,4 @@ Das heißt: Der **13. Tag im dritten Sommermonat** (Später Vael), der auf den *
 
 Dieses Kalendersystem verbindet die zyklischen Rhythmen der Natur mit der Verehrung der Jahreszeitengötter – und schafft so Struktur und Sinn im Alltag Terraniens.
 
+![Kalender.png](/img/user/4%20Dateien/Kalender.png)

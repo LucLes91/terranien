@@ -19,6 +19,8 @@ Nach dem zentralen Glauben des _Ordens der Tetrarchie_, der größten und staats
 
 Die Gläubigen sehen in ihr die **_sanfte Heilerin_** und **_frohe Botin_**, die nach langen Wintern das Land wieder erwachen lässt. Sie spendet Heilung für Körper und Geist, weckt Sehnsucht nach Wachstum und treibt die Saat in die Erde. Mit ihr verbinden sich Feste zur Aussaat, zu Erneuerung und Hoffnung – ein Versprechen, dass nach Dunkelheit immer Licht folgt.
 
+![Ilun.png](/img/user/4%20Dateien/Ilun.png)
+
 Doch Iluns Gabe birgt eine Schattenseite: Ihre Leichtsinnigkeit kann leicht in Übermut und fahrlässige Hoffnungslosigkeit umschlagen. Die Natur ist unberechenbar, und wer Iluns Frühlingblindheit folgt, riskiert Verluste und Enttäuschungen. Manche zwielichtige Kulte und ausgehungerte Sekten verehren Ilun als **_Göttin des wilden Chaos_** und der ungestümen Leidenschaft – nicht als sanfte Heilerin, sondern als zerstörerische Kraft, die Unvorsichtigkeit sät.
 
 Gesellschaftlich finden sich Iluns Anhänger oft unter jungen Menschen, Heilern, Bauern und Künstlern, die an Wandel und Wachstum glauben. Sie sind impulsiv, leidenschaftlich und lebensbejahend, manchmal aber auch leichtsinnig und rebellisch.
@@ -28,6 +30,8 @@ Gesellschaftlich finden sich Iluns Anhänger oft unter jungen Menschen, Heilern,
 **_Vael_** wird als stattlicher, **muskulöser Mann** mit sonnengebräunter Haut und goldenen Augen dargestellt. Seine Präsenz strahlt Wärme, Stärke und unerbittliche Klarheit aus. Seine Haare flammen wie Sonnenstrahlen, und sein Herz wird oft als pulsierende Sonnenscheibe visualisiert. Vael steht für die Fülle des Sommers, das Feuer der Kraft und die Klarheit des Geistes.
 
 Er ist der **Wächter des Wachstums, der Patron von Handwerk, Kriegskunst und gesellschaftlicher Ordnung.** Unter seinem Schutz gedeihen Städte, Schmieden und Krieger. Die großen Sonnenfeste ehren Vaels Glanz und seine unermüdliche Energie.
+
+![Vael.png](/img/user/4%20Dateien/Vael.png)
 
 Doch Vael trägt auch die Gefahr des Hochmuts und Starrsinns in sich. Sein Feuer kann zu **Zorn, Überheblichkeit und erbarmungsloser Härte** werden. Einige machtgierige Lords und Kriegsherren berufen sich auf Vael, um ihre Grausamkeit und ihren Stolz zu rechtfertigen. Vael wird so nicht nur als Lebensspender, sondern auch als brennende, unerbittliche Macht verehrt.
 
@@ -39,6 +43,8 @@ Seine Gefolgsleute sind oft Krieger, Handwerker, Händler und Obrigkeiten, die W
 
 Esha ist die **Göttin der Ernte, der Maßhaltung und der Einsicht**. Sie lehrt die Menschen, dass alles Sein vergänglich ist, und fordert Respekt vor dem Ende und der Vergänglichkeit. In ihrer Jahreszeit wird geerntet, gedankt, reflektiert und der Ahnen gedacht. Die Feste zu Esha sind geprägt von Andacht, Ruhe und Nachdenklichkeit.
 
+![Esha.png](/img/user/4%20Dateien/Esha.png)
+
 Doch Esha hütet auch die dunkle Seite des **Zweifels, der Schwermut und des Loslassens.** Ihre Lehren können zu Resignation und Selbstzweifel führen. Manche Kulte nutzen Esha als _Göttin des Verfalls_ und der Verzweiflung, um dunkle Rituale der Trauer und des Rückzugs zu legitimieren.
 
 Gesellschaftlich finden sich ihre Anhänger oft unter Älteren, Gelehrten, Druiden und Philosophen, die Wert auf Balance, Weisheit und das Verständnis der zyklischen Natur des Lebens legen.
@@ -48,6 +54,8 @@ Gesellschaftlich finden sich ihre Anhänger oft unter Älteren, Gelehrten, Druid
 _Norys_ wird als **geheimnisvoller, in Nebel gehüllter Mann mit blasser Haut und eisblauen Augen dargestellt.** Sein Haar weht wie kalter Wind, und seine Präsenz vermittelt Stille und Tiefe. Er ist der Herr der Winterruhe, der Kälte, des Vergessens und des tiefen Traums.
 
 Unter Norys' Herrschaft ziehen sich die Lebenden zurück, sammeln Kräfte und besinnen sich auf das Innenleben. Seine Jahreszeit ist geprägt von **Stille, Erkenntnis und der Vorbereitung** auf einen neuen Kreislauf. Die Winterfeste sind still und ernst, oft verbunden mit Gedenken an Verstorbene und das Bewahren von Erinnerungen.
+
+![Norys.png](/img/user/4%20Dateien/Norys.png)
 
 Doch Norys birgt auch den Schatten des Todes, des Vergessens und der Isolation. Seine Kälte kann Herzen verhärten, Seelen vereinsamen lassen und den Tod bringen. Manche finstere Orden und Sekten verehren Norys als **_Gott des Endes_, der Auslöschung und der Einsamkeit.**
 

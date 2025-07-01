@@ -19,6 +19,8 @@ Theaterhäuser bringen Dramen, Heldenepen und satirische Lustspiele auf die Büh
 Seine Spezialität: Maskenspiele, in denen Adlige als Tiere auftreten, Gesetze rückwärts gesprochen werden und das Publikum plötzlich selbst Teil des Dramas ist.  
 Manche behaupten, seine Verse seien Prophezeiungen. Andere halten ihn für einen ehemaligen Höfling. Wer er ist, weiß niemand. Doch wenn irgendwo ein neues Stück mit dem Titel _„Das Urteil des Windes“_ auftaucht, weiß man: Der Narr war da.
 
+![Taverne.png](/img/user/4%20Dateien/Taverne.png)
+
 Zu den beliebtesten Musikgruppen des Reiches zählt **„Zucker und Zunder“** – eine bunte Truppe aus Feen, Gnomen und einem schweigsamen Harengon mit verstimmtem Waschbrett.  
 Auf den ersten Blick wirken sie, als könnten sie keiner Fliege etwas zuleide tun: flatterhafte Auftritte, bunte Halstücher, glitzernde Blütenkränze.  
 Doch sobald sie spielen, verändert sich die Stimmung. Ihre Musik bringt Tische zum Tanzen, Becher zum Springen – und manchmal auch die Zuhörer.  
@@ -60,6 +62,8 @@ Ein besonderes Merkmal jedes offiziellen Sturmballfeldes sind die **Greifenleine
 Spieler können diese Seile nutzen, um sich abzustützen, abzuspringen oder besonders gewagte Würfe und Blockaden auszuführen.  
 **Besonders geschickte Spielende** versuchen den seltenen „Doppelsprung“ – eine Kombination aus Schwung und Flug, mit dem der Ball aus der Luft in den Ring befördert wird.  
 Allerdings darf niemand länger als drei Atemzüge an der Leine bleiben – wer das tut, begeht ein sogenanntes **Sturzspiel**, das mit Strafwurf geahndet wird.
+
+![Sturmball.png](/img/user/4%20Dateien/Sturmball.png)
 
 Das Spiel dauert zwei mal neun Minuten, wird von einer Schiedsrichterin und einem **„Flügelrichter“** überwacht – Letzterer sitzt erhöht und beobachtet das Geschehen von oben. Die Regeln sind einfach, aber taktisch tief: Es geht um Position, Raumkontrolle und Mut.
 
