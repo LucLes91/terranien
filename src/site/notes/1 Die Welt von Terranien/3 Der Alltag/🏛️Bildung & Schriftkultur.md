@@ -68,7 +68,7 @@ Angeführt wird der Cursus Alatus vom **Hohen Aerarchen der Lüfte**, einem alte
 
 Die **kaiserlichen Brieftauben** gelten als Elite – in schimmernden Bronzeschnabelpanzerungen, mit glimmenden Ätherfedern und Schutzrunen an Brust und Flügel. Ihre Kuriertaschen sind versiegelt, ihre Wege geheim. Viele fallen – doch nie, ohne ihre Botschaft zu überbringen.
 
-> **„Der Himmel schweigt nicht, wenn das Reich ruft.“ – Wahlspruch des _Cursus Alatus_
+> **„Der Himmel schweigt nicht, wenn das Reich ruft.“ – Wahlspruch des _Cursus Alatus_**
 
 Neben ihnen dienen auch **Schnellraben**, **Bannsegler** und **Windschreiter** – jede Art spezialisiert auf bestimmte Regionen, von Gebirgen bis hin zur Küste. Im Notfall greifen sie auf **magische Flugzeichen** zurück – leuchtende Glyphenvögel aus Ätheressenz, die nur einmal fliegen, aber nie vergessen werden.
 
