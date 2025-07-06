@@ -18,6 +18,8 @@ Die offizielle Währung Terraniens ist der **Aurin**, geprägt in **Gold und Sil
 > Gängige Einheiten:
 > - **1 Aurin** (Goldmünze) = **10 Argen** (Silbermünzen)
 
+![wirtschaft2.png](/img/user/4%20Dateien/wirtschaft2.png)
+
 Daneben existieren regionale Besonderheiten: Muschelgeld in den Inseln, Ätherkristallsplitter als Wechselwährung unter Alchemisten, alte Plageprägungen, die man besser nicht annimmt – und **natürlich Tauschhandel in den entlegensten Winkeln** des Reiches.
 
 ### 🏦 **Die Macht der Münzkompanie**
@@ -41,7 +43,7 @@ Das Reich ist **kein Ort der Gleichheit**. Wer arbeitet, verdient – doch nicht
 | Stadtschreiber / Beamter | ca. 8 Aurin (80 Argen)        |                                    |
 | Magier / Heiler          | ca. 8–12 Aurin (80–120 Argen) |                                    |
 
-Eine **Hütte im Land kostet 5 bis 20 Aurin im Monat,** ein gutes Stadthaus hingegen ein Vielfaches. Wer überleben will, muss arbeiten. Wer aufsteigen will, muss zahlen.
+Eine **Hütte auf dem Land kostet 5 bis 20 Aurin im Monat,** ein gutes Stadthaus hingegen ein Vielfaches. Wer überleben will, muss arbeiten. Wer aufsteigen will, muss zahlen.
 
 #### ⚖️ Gesellschaftliche Kaufkraft
 
@@ -130,6 +132,8 @@ Doch es gibt auch andere Märkte: **Schwarze, graue, geheime**. Dort kauft man W
 | Schreiner (Mobiliar)                | 10          | 100         | Möbelstücke, Truhen, Schränke                  |
 | Waffenlehrer Intensivkurs           | 70-100      | 700-1000    | gezielte Technikschulung, Manöver, Haltung     |
 | Waffenlehrer Meisterungskurs        | 120-180     | 1200-1800   | tägliches Training, 2–4h, inkl. Taktik & Drill |
+![wirtschaft1.png](/img/user/4%20Dateien/wirtschaft1.png)
+
 Die Wirtschaft Terraniens ist keine neutrale Kraft. **Sie nährt wie sie knechtet**. Die Ordnung, die sie bringt, hat einen Preis – und der wird selten gerecht verteilt. Doch in einem Reich, das von Ungeheuern, Umbrüchen und Unsicherheit umgeben ist, ist vielleicht genau das die größte Stärke:  
 Dass man sich, wenn alles andere wankt, auf eines verlassen kann:
 

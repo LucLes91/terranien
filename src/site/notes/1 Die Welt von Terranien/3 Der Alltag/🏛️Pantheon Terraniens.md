@@ -99,6 +99,7 @@ Diese **Volksgötter** hatten Gesichter aus **Fleisch und Stein**, kannten **Hun
 
 Doch mit der Reichsgründung und der Verbreitung der Tetrachie wurden diese alten Glaubensformen **an den Rand gedrängt**. Ihre Namen wurden **verboten**, ihre Tempel **geschleift**, ihre Anhänger als **Götzendiener, Ketzer oder Barbaren** verfemt. Was blieb, waren **Flüstergebete**, **versteckte Zeichen** – und die **feste Überzeugung**, dass manche Dinge nicht so leicht sterben.
 
+![Kulte.png](/img/user/4%20Dateien/Kulte.png)
 
 **Gruum’tash**, der **Knochenschmied**, gilt als einer der ältesten orkischen Götter. In den Legenden des **Bluthauer-Clans** erschuf er die ersten Orks aus dem Mark erschlagener Titanen – mit Feuer, Eisen und roher Wut. Er steht für **Stärke durch Schmerz**, für **Schöpfung durch Zerstörung**. Seine alten Riten – das **„Feuer der Erneuerung“**, bei dem Knochen und zerbrochene Waffen verbrannt wurden – galten als Übergang in ein neues Leben. Noch heute rufen ihn einzelne Stämme in den **östlichen Tundren**, wenn sie sich auf Krieg und Rache vorbereiten. Seine Zeichen: **gesplitterte Klingen**, **Asche-Tätowierungen**, **Knochenamulette** auf nackter Haut.
 

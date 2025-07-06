@@ -12,6 +12,8 @@ Terranien ist ein Reich, das sich **aktiv um Ordnung bemüht**. In Städten, bef
 
 In den Reichsstädten ist **Sicherheit ein funktionierender Bestandteil des Alltags**. Stadtwachen sorgen für Recht und Ordnung, überwachen Marktplätze, begleiten Transporte und greifen ein, wenn das Gesetz verletzt wird. Ihre Ausstattung, Disziplin und Verlässlichkeit unterscheiden sich zwar von Stadt zu Stadt, doch überall sind sie Ausdruck des kaiserlichen Anspruchs auf Kontrolle.
 
+![Schutz1.png](/img/user/4%20Dateien/Schutz1.png)
+
 In kleineren Orten, Dörfern und Landgemeinden nehmen **Milizen, Gemeindevorsteher und Ehrenwachen** diese Aufgaben wahr. Hier zählt nicht das Wappen auf dem Wams, sondern das Gesicht, das man kennt. Entscheidungen fallen direkter, Strafen sind greifbar – und nicht immer gesetzlich genormt, aber oft von lokaler Logik getragen.
 
 Wenn es über das Lokale hinausgeht – wenn Gefahr das Reich selbst bedroht –, tritt die **Greifenbrigade** auf den Plan. Sie ist die organisierte, schwer gerüstete Armee des Kaisers: zuständig für militärische Interventionen, überregionale Krisen, strategische Unterstützung bei Expeditionen der Münzkompanie oder der Dampfbruderschaft. Ihre Präsenz ist nicht alltäglich – doch wenn sie erscheint, weiß man, dass etwas von Bedeutung geschieht.
@@ -46,6 +48,8 @@ Und über all dem liegt eine tiefer gehende Furcht: die vor dem **Unbekannten**,
 
 Nicht jeder verlässt sich auf kaiserliche Wachen. Wer Einfluss, Feinde oder Fracht hat, der sichert sich anders ab – durch **Klingen, die man sich leisten kann**.
 
+![Schutz2.png](/img/user/4%20Dateien/Schutz2.png)
+
 **Söldnertruppen** sind ein fester Bestandteil des öffentlichen Lebens. Manche tragen stolz den Namen ihrer Kompanie, andere tarnen sich hinter harmlosen Bezeichnungen. Sie bewachen Karawanen, lösen Schulden ein, eskortieren Magier oder patrouillieren für jene, die zu einflussreich sind, um sich auf Zufall zu verlassen.
 
 Doch über all diesen Gruppen steht – in Geschichten, Liedern und dem kollektiven Bewusstsein – ein Name:  
@@ -55,7 +59,7 @@ Gegründet in den Wirren der Plagekriege, war sie einst nichts als ein loser Bun
 
 Zahlreiche kleinere Gilden und Einzelabenteurer bieten heute ihre Dienste in Anlehnung an diese Legende an – in der Hoffnung, **eines Tages selbst in die Klinge aufgenommen zu werden**. Für viele ist dies der höchste mögliche Lohn: nicht Gold, sondern der Name.
 
----
+
 
 Sicherheit in Terranien ist weder Illusion noch Garant. Sie ist ein Versprechen – gegeben vom Reich, gehalten von vielen, gebrochen von wenigen.
 

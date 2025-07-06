@@ -22,6 +22,8 @@ Die Wälder Terraniens rauschen noch immer. Die Flüsse fließen, die Bienen sam
 
 Die **Grenzwacht** berichtet von schwärzlichen, beinlosen Hirschwesen, deren Schrei wie ein menschliches Wimmern klingt. Fischer erzählen von Schatten unter klarer Oberfläche, groß wie Boote, mit Augen wie bernsteinfarbenes Glas.
 
+![fauna1.png](/img/user/4%20Dateien/fauna1.png)
+
 Es heißt, man habe im Süden ein **geflügeltes Wesen** am Himmel gesehen, das Feuer atmete – ein Drache, sagen die einen. Ein Omen, sagen die anderen. In entlegenen Wäldern wird von **weißen Hirschen mit spiralförmigem Horn** berichtet, deren Blick ein Gefühl von „gesehener Schuld“ hervorrufe.
 
 Nicht alle dieser Geschichten sind bestätigt – doch sie häufen sich.
@@ -75,6 +77,8 @@ Terranien kennt Stürme, Überschwemmungen, Erdbeben – doch seit der Plage lie
 - Die **Aschenwelle** war ein heißer, schwarzer Sturm, der ein Dorf innerhalb von Stunden zu Staub zerlegte. Manche glauben, er sei der Zorn eines alten Wesens, das dort schlief.
 - In der **Heulnacht** flohen Tiere aus dem Düstermarschland – noch ehe der Nebel rot wurde. Es kehrte nie jemand zurück, der nachsehen wollte.
 - Beim **Grünen Brand** sah man Blitze auf Felder einschlagen – und das Gras verbrannte, aber es schrie dabei. Einige glauben, die Erde selbst habe geschrien.
+
+![Natur1.png](/img/user/4%20Dateien/Natur1.png)
 
 Der einfache Mensch sieht in solchen Phänomenen göttliche Warnung, dämonische Rückkehr oder Risse im Gewebe der Welt.  
 Die Fraktionen deuten sie unterschiedlich:

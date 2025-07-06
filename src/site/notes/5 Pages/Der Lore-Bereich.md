@@ -56,9 +56,11 @@ $\quad$
 $\quad$
 ### 🌍$\quad$**Städte & Provinzen**
 
-- [[1 Die Welt von Terranien/4 Städte & Provinzen/🧭Hochsee-Archipel\|🧭Hochsee-Archipel]]
-- 🧭weitere folgen...
+- [[1 Die Welt von Terranien/4 Städte & Provinzen/🧭Das Hochsee-Archipel\|🧭Das Hochsee-Archipel]]
+- [[1 Die Welt von Terranien/4 Städte & Provinzen/🧭Die Düstermarschen\|🧭Die Düstermarschen]]
+- [[1 Die Welt von Terranien/4 Städte & Provinzen/🧭Kaiserstadt Landarion\|🧭Kaiserstadt Landarion]]
+- 🧭Weitere folgen...
 $\quad$
 ### 👤$\quad$**Wichtige Charaktere**
 
-- 🧙diese folgen noch...
+- 🧙Diese folgen noch...
