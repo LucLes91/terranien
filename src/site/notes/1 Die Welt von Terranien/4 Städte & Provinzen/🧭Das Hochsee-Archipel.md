@@ -4,34 +4,10 @@
 
 **_Tor zum Osten, Spiegel der Freiheit, Prüfstein des Reiches_**
 
-![KarteArchipel.jpg](/img/user/4%20Dateien/KarteArchipel.jpg)
-
 Wie verstreute Splitter einer zerborstenen Krone ragen die Inseln des Hochsee-Archipels aus dem östlichen Meer – eine faszinierende Provinz voller Gegensätze. Offiziell unter dem Banner des Kaisers, doch im Herzen eigenwillig, seefahrend, freiheitsliebend.  
 Das Archipel liegt wie eine natürliche Schranke zwischen dem Festland Terraniens und dem weiten, noch unerschlossenen Meer – dem blauen Schleier, hinter dem der fremde Kontinent Faerûn ruht, mit seinen Königen, seinen Städten und seinen ungewissen Absichten.
 
-
-```leaflet    
-id: ArchipelMap  
-image: KarteArchipel.jpg  
-height: 500px  
-width: 150%  
-### This sets where the map starts by default. Set it to the middle (half) of your bounds.  
-lat: 50  
-long: 50  
-### 0 is no zoom. Negative zoom steps away from the map. Positive zoom steps towards the map.  
-minZoom: 0  
-### Max zoom is 18.  
-maxZoom: 18  
-### Hover mouse over the Reset Zoom icon to see your current zoom level.  
-defaultZoom: 15  
-### How far it zooms in or out with each step. Can be in decimals.  
-zoomDelta: 0.5  
-### This is a string so can be any text. Change it to match your maps measurement scale.  
-unit: feet  
-scale: 1  
-darkMode: false
-
-```
+![KarteArchipel.jpg](/img/user/4%20Dateien/KarteArchipel.jpg)
 
 Wer hier Stützpunkte unterhält, kontrolliert mehr als Küsten – er kontrolliert den Zugang zum Reich selbst. Fremde Flotten, Piraten, Händler ohne Zollerlaubnis: Alle müssen durch diese Gewässer, ob sie wollen oder nicht. Ohne das Archipel wäre die Ostküste Terraniens schutzlos – mit ihm ist sie eine Festung auf Inseln.
 
