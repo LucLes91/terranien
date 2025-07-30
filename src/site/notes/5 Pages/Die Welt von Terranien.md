@@ -30,16 +30,22 @@ $\quad$
 > - ***Die Lore-Einträge der Themen über den Alltag und die Gesellschaft in Terranien sind ebenfalls online.***
 > 
 
-
+$\quad$
 
 ###### **The Autistic Five**
 > *Hier erscheinen für die jeweilige Gruppe bestimmte Ankündigungen und Informationen*
+> > 
+>-  ***Die nächste Session wird ein kurzes Daggerheart One-Shot. Wir bauen kurz neue Charaktere und haben einen Gastspieler dabei!***
+>
 
+
+
+$\quad$
 $\quad$
 ### 📅 Nächste Spieltermine
 $\quad$
 ###### **The Autistic Five**
-> **🗓 Sonntag 17.08.2025 – 14:00 Uhr bei Lucas zu Hause.
+> **🗓 Sonntag 17.08.2025 – 12:00 Uhr bei Lucas zu Hause.
 > (Bitte Rückmeldung bis 10.08.2025)**
 
 $\quad$
