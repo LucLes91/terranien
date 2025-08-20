@@ -18,7 +18,7 @@ Die offizielle Währung Terraniens ist der **Aurin**, geprägt in **Gold und Sil
 > Gängige Einheiten:
 > - **1 Aurin** (Goldmünze) = **10 Argen** (Silbermünzen)
 
-![wirtschaft2.png](/img/user/4%20Dateien/wirtschaft2.png)
+![wirtschaft2.png](/img/user/4%20Dateien/Illustrationen/wirtschaft2.png)
 
 Daneben existieren regionale Besonderheiten: Muschelgeld in den Inseln, Ätherkristallsplitter als Wechselwährung unter Alchemisten, alte Plageprägungen, die man besser nicht annimmt – und **natürlich Tauschhandel in den entlegensten Winkeln** des Reiches.
 
@@ -132,7 +132,7 @@ Doch es gibt auch andere Märkte: **Schwarze, graue, geheime**. Dort kauft man W
 | Schreiner (Mobiliar)                | 10          | 100         | Möbelstücke, Truhen, Schränke                  |
 | Waffenlehrer Intensivkurs           | 70-100      | 700-1000    | gezielte Technikschulung, Manöver, Haltung     |
 | Waffenlehrer Meisterungskurs        | 120-180     | 1200-1800   | tägliches Training, 2–4h, inkl. Taktik & Drill |
-![wirtschaft1.png](/img/user/4%20Dateien/wirtschaft1.png)
+![wirtschaft1.png](/img/user/4%20Dateien/Illustrationen/wirtschaft1.png)
 
 Die Wirtschaft Terraniens ist keine neutrale Kraft. **Sie nährt wie sie knechtet**. Die Ordnung, die sie bringt, hat einen Preis – und der wird selten gerecht verteilt. Doch in einem Reich, das von Ungeheuern, Umbrüchen und Unsicherheit umgeben ist, ist vielleicht genau das die größte Stärke:  
 Dass man sich, wenn alles andere wankt, auf eines verlassen kann:

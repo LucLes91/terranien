@@ -15,7 +15,7 @@ Und doch zogen nicht wenige von ihnen in die Plagenkriege – **nicht für ein B
 **Das heutige Reich betrachten die meisten Zirkel mit Misstrauen.** Nicht aus Feindseligkeit, sondern weil sie es als etwas Künstliches sehen – ein Netz aus Regeln und Grenzen, das nicht mit dem Fluss der Welt, sondern gegen ihn webt. Mit Fraktionen wie dem Orden der Tetrarchie teilen sie einen gewissen Respekt für die Kräfte des Lebens, doch während der Orden in Tempeln dient, **wandeln die Zirkel unter freiem Himmel**. Die Dampfbruderschaft und die Münzkompanie wiederum sind ihnen fremd wie Maschinen dem Regenwurm.  
 Dennoch: Einige Zirkel haben gelernt, mit den Städten zu handeln, ohne ihnen zu gehören. Und hin und wieder findet ein Gesandter des Reiches bei ihnen Hilfe – wenn er weiß, wie man bittet, ohne zu fordern.
 
-![Zirkel1.png](/img/user/4%20Dateien/Zirkel1.png)
+![Zirkel1.png](/img/user/4%20Dateien/Illustrationen/Zirkel1.png)
 
 Manche dieser Zirkel leben völlig abgeschieden, sprechen nur mit Tieren und Geistern. Andere treten zu gewissen Zeiten in Erscheinung – auf Festen, in Dörfern, am Rand großer Felder, **um ein krankes Kind zu heilen oder eine Dürre zu wenden**. Und dann verschwinden sie wieder – lautlos wie Nebel, nur Spuren hinterlassend, die allein ein Förster deuten könnte.
 

@@ -4,7 +4,7 @@
 
 
 
-![Verzierung1.png](/img/user/4%20Dateien/Verzierung1.png)**Weit jenseits der westlichen Weiten der Schwertküste**, wo die Karten der Welt sich ins Vage verlieren und die See ihr Schweigen nicht bricht, liegt ein kaum bekanntes Eiland der Geheimnisse: der **_Subkontinent Terranien_** – ein Ort, der auf keiner Karte vollständig gezeichnet ist.
+![Verzierung1.png](/img/user/4%20Dateien/Illustrationen/Verzierung1.png)**Weit jenseits der westlichen Weiten der Schwertküste**, wo die Karten der Welt sich ins Vage verlieren und die See ihr Schweigen nicht bricht, liegt ein kaum bekanntes Eiland der Geheimnisse: der **_Subkontinent Terranien_** – ein Ort, der auf keiner Karte vollständig gezeichnet ist.
 
 Nur wenigen Bewohnern Faerûns ist der Name ein Begriff – und noch weniger setzten je einen Fuß auf seinen Boden. Für die Händlerzunft ist es eine beschwerliche Reise durch tückische Strömungen und endlose Wogen; nur die _**kühnsten**_ unter ihnen kehren mit reichen Schiffsbäuchen zurück – und selbst sie berichten oft nur bruchstückhaft von dem, was sie sahen. Noch seltener jedoch sind jene Abenteurer, die sich getrauen, die _**unerforschten Winkel dieses Landes**_ zu betreten – ein Ort, der ebenso reich an _**Schönheit**_ wie an _**Rätseln**_ ist.
 
@@ -17,7 +17,7 @@ Vor etwa 80 Jahren kroch ein _**finsteres Übel**_ aus den Düstermarschen heran
 In letzter Stunde vereinten sich die überlebenden Städte, Siedlungen und Fraktionen unter einem gemeinsamen Banner – ein Bündnis geboren aus _**Verzweiflung**_ und dem _**unerschütterlichen Willen zu überleben.**_ Alte Feindschaften wurden begraben, uralte Mauern eingerissen, nur um eine _**letzte Linie gegen das Grauen**_ zu ziehen.  
 **So erhob sich ein neues Reich, mit der Stadt Landarion als dessen strahlender Mittelpunkt.**
 
-![Entstehung1.png](/img/user/4%20Dateien/Entstehung1.png)
+![Entstehung1.png](/img/user/4%20Dateien/Illustrationen/Entstehung1.png)
 
 Landarion wurde zur Kaiserstadt, getragen von zwei mächtigen Säulen: **der Münzkompanie**, einer weitreichenden Handels- und Entdeckergilde, die auf Meer und Land operierte, und **der Greifenbrigade**, einer militärischen Elite, deren Banner wie Sturmvögel über den Himmel Terraniens zogen. Gemeinsam errichteten sie den wohl ausgeklügeltsten Staatsapparat des bekannten Kontinents – eine Symbiose aus Gold und Stahl, aus Verhandlung und Verteidigung.  
 **An ihrer Spitze stand Kaiser Demios I., der erste seines Namens**, ein Herrscher mit dem _**Blick eines Strategen**_ und dem _**Herzen eines Bewahrers.**_
@@ -26,7 +26,7 @@ Während Landarion das Fundament für eine neue Ordnung legte, erhob sich eine w
 
 Fern von göttlichem Segen, doch nicht minder bedeutend, trat **die Dampfbruderschaft** auf den Plan – ein Zirkel von Tüftlern, Technikern und Gelehrten, deren Liebe dem _**Dampf, dem Zahnrad und der alchemistischen Formel**_ galt. Sie mieden Magie wie ein Schmied das kalte Eisen, und vertrauten auf eine geheimnisvolle, _**goldschimmernde Essenz,**_ deren wahre Rezeptur nur den Ältesten bekannt war. In hochkonzentrierter Form trieb sie Maschinen an – die ersten dampfbetriebenen Konstrukte des Kontinents. In verdünnter Variante belebte sie Truppen und Volk gleichermaßen – ein berauschendes Gebräu zwischen _**Wunder und Wahnsinn.**_ Die Bruderschaft übernahm Aufgaben im Bauwesen, in der Kriegstechnik und im Bergbau – und wurde so zum Rückgrat der kaiserlichen Infrastruktur. Ihr Wirken war rau, effizient – und von einem _**Fortschrittsdrang getrieben,**_ der manchmal _**schneller war als das Verständnis der Zeit.**_
 
-![Entstehung2.png](/img/user/4%20Dateien/Entstehung2.png)
+![Entstehung2.png](/img/user/4%20Dateien/Illustrationen/Entstehung2.png)
 
 **Gemeinsam – unterstützt von zahllosen Gilden und wandernden Klingen – trat das neue Reich der Flut aus Wahnsinn und Monstrosität entgegen.**  
 Unter den Helden stach ein Name hervor: _**die Glänzende Klinge**_, eine legendäre Heldengruppe, die zur Inspiration für Generationen wurde. Es gelang, das Herzland von der Plage zu befreien und das Böse zurück in die Düstermarschen zu drängen.
@@ -38,4 +38,4 @@ Nachdem der Rand der Düstermarschen gesichert war, wandte sich das Reich nach i
 **Der Blick schweift nun wieder gen Osten, dorthin, wo einst die Reise begann.**  
 _**Faerûn ruft – und mit ihm vielleicht ein neues Kapitel in Terraniens Geschichte.**_
 
-![Verzierung1.png](/img/user/4%20Dateien/Verzierung1.png)
+![Verzierung1.png](/img/user/4%20Dateien/Illustrationen/Verzierung1.png)

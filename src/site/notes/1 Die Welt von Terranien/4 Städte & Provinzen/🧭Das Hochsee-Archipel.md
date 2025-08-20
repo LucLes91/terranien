@@ -7,7 +7,7 @@
 Wie verstreute Splitter einer zerborstenen Krone ragen die Inseln des Hochsee-Archipels aus dem östlichen Meer – eine faszinierende Provinz voller Gegensätze. Offiziell unter dem Banner des Kaisers, doch im Herzen eigenwillig, seefahrend, freiheitsliebend.  
 Das Archipel liegt wie eine natürliche Schranke zwischen dem Festland Terraniens und dem weiten, noch unerschlossenen Meer – dem blauen Schleier, hinter dem der fremde Kontinent Faerûn ruht, mit seinen Königen, seinen Städten und seinen ungewissen Absichten.
 
-![KarteArchipel.jpg](/img/user/4%20Dateien/KarteArchipel.jpg)
+![KarteArchipel.jpg](/img/user/4%20Dateien/Karten/KarteArchipel.jpg)
 
 Wer hier Stützpunkte unterhält, kontrolliert mehr als Küsten – er kontrolliert den Zugang zum Reich selbst. Fremde Flotten, Piraten, Händler ohne Zollerlaubnis: Alle müssen durch diese Gewässer, ob sie wollen oder nicht. Ohne das Archipel wäre die Ostküste Terraniens schutzlos – mit ihm ist sie eine Festung auf Inseln.
 
@@ -27,7 +27,7 @@ Doch das Archipel ist mehr als Bollwerk. Es ist ein Spiegel maritimer Vitalität
 
 Die Inseln sind zugleich **Außenposten und Frühwarnsystem**, Rückzugsort und Signalfeuer. Sollte sich die See je gegen das Festland kehren – von Natur oder Mensch bewegt –, wäre es das Archipel, das zuerst flüstert, schreit oder brennt.
 
-![archipel1.png](/img/user/4%20Dateien/archipel1.png)
+![archipel1.png](/img/user/4%20Dateien/Illustrationen/archipel1.png)
 
 Doch jenseits aller Ressourcen ist das Archipel ein Zeichen.  
 Ein Symbol, dass das Kaiserreich nicht nur Ordnung schaffen, sondern auch Unordnung dulden kann – solange sie unter seiner Fahne segelt. Denn hier leben **Orkklans**, verkehren **Piratenverbände**, und in Tarakus, dieser schmierigen Perle der Gesetzlosigkeit, wird geplündert, gefeilscht und gefeiert – und das Reich sieht zu. Oder besser: Es sieht darin Nutzen.  

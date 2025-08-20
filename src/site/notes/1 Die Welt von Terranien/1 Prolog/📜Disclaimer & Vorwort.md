@@ -3,7 +3,7 @@
 ---
 
 
-![Vorwort.png](/img/user/4%20Dateien/Vorwort.png)
+![Vorwort.png](/img/user/4%20Dateien/Illustrationen/Vorwort.png)
 
 ### 🏰 Willkommen in Terranien
 

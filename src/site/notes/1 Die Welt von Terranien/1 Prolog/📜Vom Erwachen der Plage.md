@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/1-die-welt-von-terranien/1-prolog/vom-erwachen-der-plage/"}
 ---
 
-![Verzierung2.png](/img/user/4%20Dateien/Verzierung2.png)
+![Verzierung2.png](/img/user/4%20Dateien/Illustrationen/Verzierung2.png)
 Vor etwa achtzig Jahren begann etwas, das kein Chronist recht benennen konnte – und kein Zeitalter je vergessen wird. Terranien wandelte sich – nicht durch Eroberung, nicht durch Revolution, sondern durch etwas, das niemand kommen sah. Die Gelehrten nennen es die **Plage**, doch der Name ist ein _Schleier_, nicht das Wesen. Denn was über das Land kam, war nicht Krankheit, nicht Fluch, nicht Zauber.  
 Es war ein _**Riss in der Wirklichkeit selbst.**_
 
@@ -27,7 +27,7 @@ _Nichts davon war benennbar._
 _Nichts davon war erklärbar._  
 Terranien hatte keine Namen für das, was da kam – _**nur Schreie.**_
 
-![Plage1.png](/img/user/4%20Dateien/Plage1.png)
+![Plage1.png](/img/user/4%20Dateien/Illustrationen/Plage1.png)
 
 Die Erschütterung war so tief, dass sie nicht nur Körper, sondern auch _Gewissheiten_ zerschlug.  
 Viele verloren den Verstand nicht durch das, was sie sahen – sondern durch das, was sie _**nicht mehr einordnen**_ konnten.  
@@ -51,7 +51,7 @@ vom **Kind aus dem Echo**, _**das nie geboren wurde, und doch in jedem Albtraum 
 
 Was davon wahr ist, weiß niemand. Doch alles klingt wie ein Teil der Wahrheit – oder wie _**ein Echo davon.**_
 
-![Plage2.png](/img/user/4%20Dateien/Plage2.png)
+![Plage2.png](/img/user/4%20Dateien/Illustrationen/Plage2.png)
 
 Die Chroniken des Reiches erzählen von Fraktionen, von Gründungen, von Abwehr und Wiederaufbau.  
 Aber was sie selten berichten, sind die leisen Geschichten:  
@@ -81,4 +81,4 @@ Sie ist das, was blieb._**
 **_Ruhe ist kein Ende.  
 Vergessen ist kein Sieg._**
 
-![Verzierung2.png](/img/user/4%20Dateien/Verzierung2.png)
+![Verzierung2.png](/img/user/4%20Dateien/Illustrationen/Verzierung2.png)

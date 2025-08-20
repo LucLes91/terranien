@@ -19,7 +19,7 @@ Nach dem zentralen Glauben des _Ordens der Tetrarchie_, der größten und staats
 
 Die Gläubigen sehen in ihr die **_sanfte Heilerin_** und **_frohe Botin_**, die nach langen Wintern das Land wieder erwachen lässt. Sie spendet Heilung für Körper und Geist, weckt Sehnsucht nach Wachstum und treibt die Saat in die Erde. Mit ihr verbinden sich Feste zur Aussaat, zu Erneuerung und Hoffnung – ein Versprechen, dass nach Dunkelheit immer Licht folgt.
 
-![Ilun.png](/img/user/4%20Dateien/Ilun.png)
+![[Ilun.png]]
 
 Doch Iluns Gabe birgt eine Schattenseite: Ihre Leichtsinnigkeit kann leicht in Übermut und fahrlässige Hoffnungslosigkeit umschlagen. Die Natur ist unberechenbar, und wer Iluns Frühlingblindheit folgt, riskiert Verluste und Enttäuschungen. Manche zwielichtige Kulte und ausgehungerte Sekten verehren Ilun als **_Göttin des wilden Chaos_** und der ungestümen Leidenschaft – nicht als sanfte Heilerin, sondern als zerstörerische Kraft, die Unvorsichtigkeit sät.
 
@@ -31,7 +31,7 @@ Gesellschaftlich finden sich Iluns Anhänger oft unter jungen Menschen, Heilern,
 
 Er ist der **Wächter des Wachstums, der Patron von Handwerk, Kriegskunst und gesellschaftlicher Ordnung.** Unter seinem Schutz gedeihen Städte, Schmieden und Krieger. Die großen Sonnenfeste ehren Vaels Glanz und seine unermüdliche Energie.
 
-![Vael.png](/img/user/4%20Dateien/Vael.png)
+![Vael.png](/img/user/4%20Dateien/Illustrationen/Vael.png)
 
 Doch Vael trägt auch die Gefahr des Hochmuts und Starrsinns in sich. Sein Feuer kann zu **Zorn, Überheblichkeit und erbarmungsloser Härte** werden. Einige machtgierige Lords und Kriegsherren berufen sich auf Vael, um ihre Grausamkeit und ihren Stolz zu rechtfertigen. Vael wird so nicht nur als Lebensspender, sondern auch als brennende, unerbittliche Macht verehrt.
 
@@ -43,7 +43,7 @@ Seine Gefolgsleute sind oft Krieger, Handwerker, Händler und Obrigkeiten, die W
 
 Esha ist die **Göttin der Ernte, der Maßhaltung und der Einsicht**. Sie lehrt die Menschen, dass alles Sein vergänglich ist, und fordert Respekt vor dem Ende und der Vergänglichkeit. In ihrer Jahreszeit wird geerntet, gedankt, reflektiert und der Ahnen gedacht. Die Feste zu Esha sind geprägt von Andacht, Ruhe und Nachdenklichkeit.
 
-![Esha.png](/img/user/4%20Dateien/Esha.png)
+![Esha.png](/img/user/4%20Dateien/Illustrationen/Esha.png)
 
 Doch Esha hütet auch die dunkle Seite des **Zweifels, der Schwermut und des Loslassens.** Ihre Lehren können zu Resignation und Selbstzweifel führen. Manche Kulte nutzen Esha als _Göttin des Verfalls_ und der Verzweiflung, um dunkle Rituale der Trauer und des Rückzugs zu legitimieren.
 
@@ -55,7 +55,7 @@ _Norys_ wird als **geheimnisvoller, in Nebel gehüllter Mann mit blasser Haut un
 
 Unter Norys' Herrschaft ziehen sich die Lebenden zurück, sammeln Kräfte und besinnen sich auf das Innenleben. Seine Jahreszeit ist geprägt von **Stille, Erkenntnis und der Vorbereitung** auf einen neuen Kreislauf. Die Winterfeste sind still und ernst, oft verbunden mit Gedenken an Verstorbene und das Bewahren von Erinnerungen.
 
-![Norys.png](/img/user/4%20Dateien/Norys.png)
+![Norys.png](/img/user/4%20Dateien/Illustrationen/Norys.png)
 
 Doch Norys birgt auch den Schatten des Todes, des Vergessens und der Isolation. Seine Kälte kann Herzen verhärten, Seelen vereinsamen lassen und den Tod bringen. Manche finstere Orden und Sekten verehren Norys als **_Gott des Endes_, der Auslöschung und der Einsamkeit.**
 
@@ -99,7 +99,7 @@ Diese **Volksgötter** hatten Gesichter aus **Fleisch und Stein**, kannten **Hun
 
 Doch mit der Reichsgründung und der Verbreitung der Tetrachie wurden diese alten Glaubensformen **an den Rand gedrängt**. Ihre Namen wurden **verboten**, ihre Tempel **geschleift**, ihre Anhänger als **Götzendiener, Ketzer oder Barbaren** verfemt. Was blieb, waren **Flüstergebete**, **versteckte Zeichen** – und die **feste Überzeugung**, dass manche Dinge nicht so leicht sterben.
 
-![Kulte.png](/img/user/4%20Dateien/Kulte.png)
+![[Kulte.png]]
 
 **Gruum’tash**, der **Knochenschmied**, gilt als einer der ältesten orkischen Götter. In den Legenden des **Bluthauer-Clans** erschuf er die ersten Orks aus dem Mark erschlagener Titanen – mit Feuer, Eisen und roher Wut. Er steht für **Stärke durch Schmerz**, für **Schöpfung durch Zerstörung**. Seine alten Riten – das **„Feuer der Erneuerung“**, bei dem Knochen und zerbrochene Waffen verbrannt wurden – galten als Übergang in ein neues Leben. Noch heute rufen ihn einzelne Stämme in den **östlichen Tundren**, wenn sie sich auf Krieg und Rache vorbereiten. Seine Zeichen: **gesplitterte Klingen**, **Asche-Tätowierungen**, **Knochenamulette** auf nackter Haut.
 

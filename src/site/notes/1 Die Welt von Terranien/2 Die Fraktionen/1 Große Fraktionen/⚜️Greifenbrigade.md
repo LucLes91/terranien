@@ -8,7 +8,7 @@ $\quad$
 
 In den Tagen der Not, als die Schatten der Plage die Lande Terraniens verschlangen, erhob sich eine Streitmacht, wie sie das Reich nie zuvor gekannt hatte – diszipliniert, furchtlos, und mit dem Blick stets gen Horizont. Diese Streitmacht wurde zur **Greifenbrigade**, dem schlagkräftigen, hoch angesehenen Militärarm Landarions und bald des gesamten Kaiserreichs.
 
-![Greifenbrigade2.png](/img/user/4%20Dateien/Greifenbrigade2.png)
+![Greifenbrigade2.png](/img/user/4%20Dateien/Illustrationen/Greifenbrigade2.png)
 
 Die **Greifenbrigade ist keine Söldnerschar, sondern eine Berufung.**  
 Ihre Offiziere durchlaufen strenge Lehrjahre an den Akademien des Reiches, ihre Soldaten gelten als Elitetruppe – trainiert in Formation wie im Einzelkampf, an Land, in der Luft, zur See.  
@@ -58,7 +58,7 @@ Die Greifenbrigade kämpft nicht für Ruhm – sie kämpft für das Reich.
 Und doch haftet ihr der Glanz des Erhabenen an: blankes Eisen, klare Befehle, Schwingen im Morgenrot. Ihre Stärke liegt in der Disziplin, ihr Schrecken in der Entschlossenheit.  
 Man liebt sie nicht. Man bewundert sie. Oder fürchtet, was passiert, wenn sie nicht kommt.
 
-![Greifenbrigade1.png](/img/user/4%20Dateien/Greifenbrigade1.png)
+![Greifenbrigade1.png](/img/user/4%20Dateien/Illustrationen/Greifenbrigade1.png)
 
 > **„Ich bin Schild und Flug – bis mein Herz schweigt oder mein Banner sinkt.“**  
 > Das ist ihr Schwur. Und er klingt nicht wie ein Gelöbnis. Er klingt wie ein Versprechen – und eine Warnung.

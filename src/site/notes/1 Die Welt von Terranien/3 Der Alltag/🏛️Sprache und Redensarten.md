@@ -8,7 +8,7 @@ $\quad$
 
 In einem Land, das sich über Berge, Inseln und Marschen erstreckt, hat sich nicht nur das Recht, sondern auch die Sprache verzweigt. Zwar spricht man im ganzen Reich eine gemeinsame Hochsprache – das **Reichsidiom** –, doch dahinter liegt ein Gewirr aus Akzenten, alten Zungen und Sprichwörtern, das mehr über eine Region verrät als jedes Wappen.
 
-![Sprachen2.png](/img/user/4%20Dateien/Sprachen2.png)
+![Sprachen2.png](/img/user/4%20Dateien/Illustrationen/Sprachen2.png)
 
 ### 🏙️ **Das Reichsidiom – Hochsprache und Verwaltung**
 
@@ -31,7 +31,7 @@ Wer es nicht spricht, erkennt oft nicht einmal, wenn ihm Unrecht geschieht.
 
 - Auf den **Inseln** schleicht das Altseefahrerische durch die Sätze: _„’s Weh’nicht ist nah“_ heißt dort: Der Sturm zieht auf.
 
-![Sprachen 1.png](/img/user/4%20Dateien/Sprachen%201.png)
+![Sprachen 1.png](/img/user/4%20Dateien/Illustrationen/Sprachen%201.png)
 
 Darüber hinaus tragen die Völker Terraniens noch Spuren ihrer alten Sprachen – **Elfisch, Orkisch, Zwergrunen, Gnomensingsprache oder Zentaurenpiktogramme**.  
 In Gebeten, Ritualen, Wiegenliedern oder Flüchen leben sie weiter – oft unbewusst, manchmal trotzig.  

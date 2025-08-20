@@ -37,7 +37,7 @@ Es gibt keine Berufung, keine Öffentlichkeit, keine Wiederaufnahme.
 Ein einmal verlorenes Vertrauen der Tetrachie ist nicht wiederzugewinnen.  
 Und wer in ihren Verzeichnissen falsch geführt ist, lebt fortan wie ein Schatten unter dem Rad – nie gejagt, aber nie unbeobachtet.
 
-![Magie2.png](/img/user/4%20Dateien/Magie2.png)
+![[Magie2.png]]
 
 **Die Augen des Rades**, wie man sie nennt, sind Männer und Frauen des Ordens, die unbeobachtet reisen, zuhören, schreiben, melden.  
 Oft als Wanderpriester, Schreiber, Pilger oder Krämer verkleidet, durchstreifen sie das Reich, ohne je ihr Amt zu nennen.  
@@ -88,7 +88,7 @@ Im Reich gibt es Praktiken, die zwischen Dichtung, Aberglauben und echter Macht 
 - **Windperlen**, die Wetterumschwünge vorhersagen
 - **Stillekränze**, getragen von Grenzwächtern bei gewissen Mondphasen
 
-![Magie1.png](/img/user/4%20Dateien/Magie1.png)
+![[Magie1.png]]
 
 Solche Handlungen werden geduldet – solange sie nicht beanspruchen, _Magie_ zu sein.  
 Sie gehören zum kulturellen Gewebe des Reiches, sind Brauchtum, nicht Bedrohung.  

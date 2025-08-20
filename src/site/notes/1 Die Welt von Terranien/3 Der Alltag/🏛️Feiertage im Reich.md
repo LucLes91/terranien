@@ -10,7 +10,7 @@ Die Feiertage Terraniens sind mehr als bloß gesetzte Pausen im Wandel der Jahre
 
 Manche Feste sind weithin bekannt und im Kalender fest verankert, andere flüstern nur in bestimmten Regionen – wie geheime Wurzeln unter altem Stein. Und doch gilt für sie alle: Sie geben den Menschen Orientierung. Denn wo das Jahr zum Ritus wird, wird auch das Leben bedeutungsvoll.
 
-![Feier.png](/img/user/4%20Dateien/Feier.png)
+![Feier.png](/img/user/4%20Dateien/Illustrationen/Feier.png)
 
 
 ### 🌱 **Erwachenstag – 1. Tag der Frühen Ilun (Frühlingsbeginn)**

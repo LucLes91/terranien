@@ -12,7 +12,7 @@ Terranien ist ein Reich, das sich **aktiv um Ordnung bemüht**. In Städten, bef
 
 In den Reichsstädten ist **Sicherheit ein funktionierender Bestandteil des Alltags**. Stadtwachen sorgen für Recht und Ordnung, überwachen Marktplätze, begleiten Transporte und greifen ein, wenn das Gesetz verletzt wird. Ihre Ausstattung, Disziplin und Verlässlichkeit unterscheiden sich zwar von Stadt zu Stadt, doch überall sind sie Ausdruck des kaiserlichen Anspruchs auf Kontrolle.
 
-![Schutz1.png](/img/user/4%20Dateien/Schutz1.png)
+![Schutz1.png](/img/user/4%20Dateien/Illustrationen/Schutz1.png)
 
 In kleineren Orten, Dörfern und Landgemeinden nehmen **Milizen, Gemeindevorsteher und Ehrenwachen** diese Aufgaben wahr. Hier zählt nicht das Wappen auf dem Wams, sondern das Gesicht, das man kennt. Entscheidungen fallen direkter, Strafen sind greifbar – und nicht immer gesetzlich genormt, aber oft von lokaler Logik getragen.
 
@@ -48,7 +48,7 @@ Und über all dem liegt eine tiefer gehende Furcht: die vor dem **Unbekannten**,
 
 Nicht jeder verlässt sich auf kaiserliche Wachen. Wer Einfluss, Feinde oder Fracht hat, der sichert sich anders ab – durch **Klingen, die man sich leisten kann**.
 
-![Schutz2.png](/img/user/4%20Dateien/Schutz2.png)
+![Schutz2.png](/img/user/4%20Dateien/Illustrationen/Schutz2.png)
 
 **Söldnertruppen** sind ein fester Bestandteil des öffentlichen Lebens. Manche tragen stolz den Namen ihrer Kompanie, andere tarnen sich hinter harmlosen Bezeichnungen. Sie bewachen Karawanen, lösen Schulden ein, eskortieren Magier oder patrouillieren für jene, die zu einflussreich sind, um sich auf Zufall zu verlassen.
 

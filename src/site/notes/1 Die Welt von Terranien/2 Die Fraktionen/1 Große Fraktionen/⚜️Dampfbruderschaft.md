@@ -9,7 +9,7 @@ $\quad$
 Nicht jeder Kampf wird mit Klinge oder Zauber gewonnen. Tief in den Hallen aus Stein und Bronze, in Werkstätten voller Rauch und Funken, wirkt die **Dampfbruderschaft** – ein Bund pragmatischer Geister, die in der Dunkelheit der Plage eine neue Art des Denkens schmiedeten.  
 Hier entstehen keine Wundermaschinen oder fliegenden Festungen, sondern einfache, wirkungsvolle Konstrukte: Hebelwerke, Zahnradmechanismen, Druckpumpen, Lastkräne – Werkzeuge, die das Überleben sicherten und den Wiederaufbau möglich machten.
 
-![Dampfbruderschaft1.png](/img/user/4%20Dateien/Dampfbruderschaft1.png)
+![Dampfbruderschaft1.png](/img/user/4%20Dateien/Illustrationen/Dampfbruderschaft1.png)
 
 Der Schlüssel zu alledem liegt in der **Ätheressenz** – einer golden schimmernden Substanz, deren Ursprung nur den Ältesten der Bruderschaft bekannt ist. In konzentrierter Form setzt sie Druck und Hitze frei – genug, um schwere Lasten zu bewegen oder einfache Werkzeuge anzutreiben. In verdünnter Gestalt wirkt sie belebend und bildet die Grundlage für Elixiere und Tinkturen, die auf alchemistischem Wissen basieren.  
 Für die Bruderschaft ist **Alchemie keine Magie**, sondern eine exakte, wiederholbare Wissenschaft – eine Kunst der Elemente, nicht der Illusion.
@@ -28,7 +28,7 @@ Ohne ihre Leistungen würde das Reich **langsam an seiner eigenen Größe erstic
 Doch nicht überall stößt ihre Präsenz auf Begeisterung. In Regionen, in denen ihre Baupläne alte Dörfer verdrängen, Wälder roden oder Quellheiligtümer trockenlegen, regt sich Widerstand – meist leise, manchmal militant.  
 Der Vorwurf lautet, die Bruderschaft **baue für das Reich, aber nicht für seine Menschen**. Man munkelt, dass manche ihrer Projekte dem kaiserlichen Willen zuvorkommen – und dass hinter ihren logistischen Entscheidungen gelegentlich **eigene Interessen** verborgen liegen.
 
-![Dampfbruderschaft2.png](/img/user/4%20Dateien/Dampfbruderschaft2.png)
+![Dampfbruderschaft2.png](/img/user/4%20Dateien/Illustrationen/Dampfbruderschaft2.png)
 
 Auch im Reichsrat sorgt ihr Einfluss für Misstrauen. Denn wer den Fluss der Nachschubwagen kontrolliert, hält mehr Macht in Händen, als es auf den ersten Blick scheint.
 

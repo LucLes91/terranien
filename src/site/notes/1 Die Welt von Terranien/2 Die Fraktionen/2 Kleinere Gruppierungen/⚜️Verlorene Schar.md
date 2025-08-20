@@ -14,7 +14,7 @@ Sie handelten dort, wo andere nicht wagten zu gehen. **Sie sprachen mit jenen, d
 **Und wenn es ihnen dienlich erschien, nutzten sie die Plage selbst: gebändigte Monster, verseuchte Kreaturen, wandelnde Schrecken – nicht als Feinde, sondern als Werkzeuge.**  
 Wie genau sie das taten, ist verloren oder verschwiegen worden. Doch noch heute flüstert man von Rittern, die von kranken Bestien begleitet wurden – und von Feinden, die sich plötzlich gegen ihre eigenen Brüder wandten, als hätten andere Stimmen zu ihnen gesprochen.
 
-![VerloreneSchar1.png](/img/user/4%20Dateien/VerloreneSchar1.png)
+![VerloreneSchar1.png](/img/user/4%20Dateien/Illustrationen/VerloreneSchar1.png)
 
 **Die Schar war eine jener Abenteurergruppen, wie es sie zu Zeiten der Plagenkriege viele gab – doch kaum eine wurde so gefürchtet, so misstrauisch betrachtet wie sie.**  
 Wo andere offen kämpften, operierten sie im Verborgenen. **Ihre Mitglieder traten nie unverschleiert auf; sie verbargen ihre Gesichter hinter Masken, Kapuzen oder Bemalungen.**  

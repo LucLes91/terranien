@@ -29,7 +29,7 @@ Sie führen Sterbende in Würde, lindern Schmerz, stillen Angst, bewahren alte S
 In Krankenhäusern der Städte wie in abgelegenen Hospizen der Provinzen gelten sie als stille Retter. Ihre Hilfe kommt ohne Preis – aber nicht ohne Fragen.  
 Sie beobachten magische Phänomene, dokumentieren arkanes Wirken, und prüfen Rituale auf ihre Verträglichkeit mit dem Rad der Jahresgötter.
 
-![Orden2.png](/img/user/4%20Dateien/Orden2.png)
+![Orden2.png](/img/user/4%20Dateien/Illustrationen/Orden2.png)
 
 Doch mit der Zeit ist aus Fürsorge auch Kontrolle erwachsen.  
 Was einst als Schutz begann, wird nicht selten als **Einmischung** empfunden. Die Tetraliten dulden kaum andere religiöse Strömungen – abweichende Kultformen, Naturglaube, dämonische oder „nicht gebundene“ Kulte werden **mit eisiger Wachsamkeit** behandelt.  
@@ -45,7 +45,7 @@ Nicht aus Misstrauen, sagen die Tetraliten – sondern **aus Verantwortung**. De
 An der Spitze des Ordens steht das **Quatrumvirat** – vier Erzpriesterinnen und Erzpriester, die jeweils eine Jahresmacht vertreten. Nur in Einstimmigkeit kann entschieden werden – kein Licht ohne Schatten, kein Sommer ohne Frost.  
 Ihre Namen sind kaum bekannt, doch ihre Gesandten reisen mit Siegeln, deren Anblick Türen öffnet, die sonst nicht existieren.
 
-![Orden1.png](/img/user/4%20Dateien/Orden1.png)
+![Orden1.png](/img/user/4%20Dateien/Illustrationen/Orden1.png)
 
 Das interne Rangsystem folgt einem zyklischen Aufbau – alles strebt zur Mitte, oder wird von ihr ausgestoßen:
 

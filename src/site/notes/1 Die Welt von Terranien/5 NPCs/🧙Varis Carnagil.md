@@ -22,7 +22,7 @@
 
 ### 🖼 Portrait
 
- ![varis_carnagil.png|400](/img/user/4%20Dateien/Varis_Carnagil.png)
+ ![varis_carnagil.png|300](/img/user/4%20Dateien/NPCs/Varis_Carnagil.png)
 
 
 ### ✒️ Beschreibung

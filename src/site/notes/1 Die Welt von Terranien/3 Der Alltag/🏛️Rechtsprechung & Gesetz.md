@@ -14,7 +14,7 @@ Formal ruht das Recht auf der Autorität des Kaisers, dessen Wort in allen Lande
 Doch es ist nicht das Konzil allein, das das Gesetz trägt. Vielmehr ist es der weitverzweigte **Beamtenapparat des Reiches** – eine Armee aus Schreiberlingen, Sekretären, Untersuchern und Urkundsführern –, die dafür sorgen, dass Recht nicht nur beschlossen, sondern auch vollzogen wird.  
 In Städten wie Landarion genießen hohe Beamte ein Ansehen, das dem von Offizieren oder Ordenspriestern in nichts nachsteht. Sie gelten als Rückgrat der Ordnung – und als lebendige Fäden im Gewebe der kaiserlichen Verwaltung.
 
-![strafe1.png](/img/user/4%20Dateien/strafe1.png)
+![strafe1.png](/img/user/4%20Dateien/Illustrationen/strafe1.png)
 
 Die **Greifenbrigade** stellt in Krisen den Vollzug sicher – mit dem Schwert, wenn nötig.  
 Doch im Alltag ist das Reich kein zentralistischer Hammer. Es duldet Spielräume. Und viele schlagen daraus Gold, Gunst – oder Groll.
@@ -79,7 +79,7 @@ Doch für die meisten Vergehen sieht das Reich **schnelle, sichtbare und abschre
 Eine Besonderheit des Reiches ist die Praxis, Verurteilte zur **Grenzwacht** zu entsenden – besonders bei schwerwiegenden, aber nicht todeswürdigen Vergehen.  
 Dort dienen sie unter Aufsicht, meist am Rand der Düstermarschen. Einige überleben. Manche kehren geläutert zurück. Die meisten – nicht.
 
-![strafe2.png](/img/user/4%20Dateien/strafe2.png)
+![strafe2.png](/img/user/4%20Dateien/Illustrationen/strafe2.png)
 
 Für die Grenzwacht ist dies **eine der wichtigsten Rekrutierungsquellen**:  
 Verzweifelte. Entwurzelte. Schuldige.  

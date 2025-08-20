@@ -14,7 +14,7 @@ Die meisten Kinder im Reich lernen lesen – wenn auch oft nur ihren Namen, Zahl
 In den **Herzlanden** sind Bildungshäuser weit verbreitet, gefördert durch Zünfte, Kirchen und Stadträte. In **Landarion** gilt es als Schande, ein Kind nicht lesen zu lassen.  
 Doch in den **Außenprovinzen**, auf dem Land oder in vergessenen Winkeln des Archipels, ist Bildung ein seltenes Gut. Dort hängt alles von reisenden Lehrmeistern, klugen Müttern oder willigen Priestern ab – und oft von Glück.
 
-![Bildung.png](/img/user/4%20Dateien/Bildung.png)
+![Bildung.png](/img/user/4%20Dateien/Illustrationen/Bildung.png)
 
 Was für die Oberschicht selbstverständlich ist, bleibt für den einfachen Fischer, die Sumpfkindfrau oder den Straßenjungen ein ferner Traum: Schreiben. Geschichte. Weltverständnis.  
 Die einen lernen Bücher zu schreiben. Die anderen, wie man Feuerholz zählt.
@@ -62,7 +62,7 @@ Nicht Reiter, nicht Boote, nicht Magie – sondern Federn tragen die Botschaft d
 
 Ihre Boten sind keine gewöhnlichen Vögel. Es sind **intelligente Vogelwesen**, greifähnliche Hybriden und hochgezüchtete **Brieftauben der kaiserlichen Linie** – Wesen, deren Leben einzig dem Reichsdienst geweiht ist. In ihren Augen glänzt der Eid, in ihren Krallen ruhen Schicksale.
 
-![CursusAlatus.png](/img/user/4%20Dateien/CursusAlatus.png)
+![CursusAlatus.png](/img/user/4%20Dateien/Illustrationen/CursusAlatus.png)
 
 Angeführt wird der Cursus Alatus vom **Hohen Aerarchen der Lüfte**, einem alten Rabenwesen von unantastbarer Würde. Ihm unterstehen **Flügelkader**, die nach Regionen gegliedert sind. Jeder Kader besteht aus Hunderten fliegender Boten, ausgebildet in der **Aerie von Alt-Faenrik**, dem legendären Hort der Himmelsbünde. Dort lernen sie Flugkunst, Kartografie, Windlesen – und das Letzte, was sie einem Angreifer zufliegen lassen, ist ihr Herzblut.
 

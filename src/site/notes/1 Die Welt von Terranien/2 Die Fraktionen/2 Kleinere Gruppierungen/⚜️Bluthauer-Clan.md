@@ -10,7 +10,7 @@ Der **Bluthauer Clan** lebt abgeschieden auf der nordöstlichen Insel des Hochse
 
 Was jenseits der dürren Küsten und dunklen Wälder der Insel geschieht, bleibt ein Rätsel. Nicht einmal das Reich kennt genau den Ursprung oder die Zahl der Bluthauer. Für die anderen Bewohner des Archipels sind sie vor allem eines: ein a**rchaisches, barbarisches Volk**, dessen **Blutlinien so tief rot** sind wie ihre wilden Adern.
 
-![Bluthauer1.png](/img/user/4%20Dateien/Bluthauer1.png)
+![Bluthauer1.png](/img/user/4%20Dateien/Illustrationen/Bluthauer1.png)
 
 Die Legenden erzählen von einem uralten Pakt mit den Winden und dem Meer, das die Insel umgibt. Man sagt, die Bluthauer seien mit einer Gabe und einem Fluch geboren: Ihre Haut ist von feinen, blutroten Linien durchzogen — pulsschlagende Adern, sichtbar wie Runen des Schicksals. **Diese Linien verleihen ihnen Stärke, aber auch eine wilde Unbändigkeit**, die niemand zähmen kann. Einige meinen, dass in den Nächten, wenn der Sturm über die Insel fegt, die Bluthauer in einem Blutrausch tanzen, dem selbst die Natur Ehrfurcht zollt.
 

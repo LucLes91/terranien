@@ -18,7 +18,7 @@ Sevrins Tod, der als Märtyrer in den Kämpfen fiel, wurde zur **Geburtsstunde d
 
 **Die Ideologie** dieser Gruppe ist geprägt von einer tiefen Überzeugung in das maritime Leben der Inseln. Ihre Vorstellungen von Freiheit sind nicht die des Hochadels oder der Bürokratie, sondern der Freiheit des Handels, des Lebens in engem Einklang mit der Natur, der See und den Traditionen der Ahnen. Sie verachten die „Zivilisation“ und den „Reichtum“ des Kaiserreichs, das sie als eine Art „Falle“ für die Seele der Inseln ansehen.
 
-![Gezeiten1.png](/img/user/4%20Dateien/Gezeiten1.png)
+![Gezeiten1.png](/img/user/4%20Dateien/Illustrationen/Gezeiten1.png)
 
 >**„Die Flut kennt kein Gesetz“**
 
