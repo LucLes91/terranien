@@ -19,7 +19,7 @@ Nach dem zentralen Glauben des _Ordens der Tetrarchie_, der größten und staats
 
 Die Gläubigen sehen in ihr die **_sanfte Heilerin_** und **_frohe Botin_**, die nach langen Wintern das Land wieder erwachen lässt. Sie spendet Heilung für Körper und Geist, weckt Sehnsucht nach Wachstum und treibt die Saat in die Erde. Mit ihr verbinden sich Feste zur Aussaat, zu Erneuerung und Hoffnung – ein Versprechen, dass nach Dunkelheit immer Licht folgt.
 
-![[Ilun.png]]
+![Ilun.png](/img/user/4%20Dateien/Illustrationen/Ilun.png)
 
 Doch Iluns Gabe birgt eine Schattenseite: Ihre Leichtsinnigkeit kann leicht in Übermut und fahrlässige Hoffnungslosigkeit umschlagen. Die Natur ist unberechenbar, und wer Iluns Frühlingblindheit folgt, riskiert Verluste und Enttäuschungen. Manche zwielichtige Kulte und ausgehungerte Sekten verehren Ilun als **_Göttin des wilden Chaos_** und der ungestümen Leidenschaft – nicht als sanfte Heilerin, sondern als zerstörerische Kraft, die Unvorsichtigkeit sät.
 
@@ -99,7 +99,7 @@ Diese **Volksgötter** hatten Gesichter aus **Fleisch und Stein**, kannten **Hun
 
 Doch mit der Reichsgründung und der Verbreitung der Tetrachie wurden diese alten Glaubensformen **an den Rand gedrängt**. Ihre Namen wurden **verboten**, ihre Tempel **geschleift**, ihre Anhänger als **Götzendiener, Ketzer oder Barbaren** verfemt. Was blieb, waren **Flüstergebete**, **versteckte Zeichen** – und die **feste Überzeugung**, dass manche Dinge nicht so leicht sterben.
 
-![[Kulte.png]]
+![Kulte.png](/img/user/4%20Dateien/Illustrationen/Kulte.png)
 
 **Gruum’tash**, der **Knochenschmied**, gilt als einer der ältesten orkischen Götter. In den Legenden des **Bluthauer-Clans** erschuf er die ersten Orks aus dem Mark erschlagener Titanen – mit Feuer, Eisen und roher Wut. Er steht für **Stärke durch Schmerz**, für **Schöpfung durch Zerstörung**. Seine alten Riten – das **„Feuer der Erneuerung“**, bei dem Knochen und zerbrochene Waffen verbrannt wurden – galten als Übergang in ein neues Leben. Noch heute rufen ihn einzelne Stämme in den **östlichen Tundren**, wenn sie sich auf Krieg und Rache vorbereiten. Seine Zeichen: **gesplitterte Klingen**, **Asche-Tätowierungen**, **Knochenamulette** auf nackter Haut.
 

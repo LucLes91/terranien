@@ -78,7 +78,7 @@ Terranien kennt Stürme, Überschwemmungen, Erdbeben – doch seit der Plage lie
 - In der **Heulnacht** flohen Tiere aus dem Düstermarschland – noch ehe der Nebel rot wurde. Es kehrte nie jemand zurück, der nachsehen wollte.
 - Beim **Grünen Brand** sah man Blitze auf Felder einschlagen – und das Gras verbrannte, aber es schrie dabei. Einige glauben, die Erde selbst habe geschrien.
 
-![[Natur1.png]]
+![Natur1.png](/img/user/4%20Dateien/Illustrationen/Natur1.png)
 
 Der einfache Mensch sieht in solchen Phänomenen göttliche Warnung, dämonische Rückkehr oder Risse im Gewebe der Welt.  
 Die Fraktionen deuten sie unterschiedlich:

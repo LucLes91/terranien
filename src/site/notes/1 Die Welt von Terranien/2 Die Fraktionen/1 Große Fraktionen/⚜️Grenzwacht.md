@@ -8,7 +8,7 @@ $\quad$
 
 Wenn in den prunkvollen Hallen der Kaiserstadt von Helden, Heeren und Hoffnung gesprochen wird, fällt ihr Name selten. Und doch sind sie es, die an den zermürbten Grenzen der Zivilisation stehen – mit kaltem Blick, müden Knochen und gezückter Klinge. Die **Grenzwacht** ist das Schild, das zwischen den Herzlanden Terraniens und den düsteren Auswüchsen der Düstermarschen gespannt wurde. Kein Ruhm erwartet sie dort. Nur Pflicht.
 
-![[Grenzwacht2.png]]
+![Grenzwacht2.png](/img/user/4%20Dateien/Illustrationen/Grenzwacht2.png)
 
 Die **Düstermarschen**, wie man das finstere Grenzland im Westen nennt, erstrecken sich als ein endlos scheinendes Labyrinth aus dichten, unkartographierten Wäldern, fauligen Sümpfen und nebelverhangenen Lichtungen. Träge Nebel schleichen zwischen verfallenen Ruinen, deren Ursprung niemand mehr kennt. Wie weit sich dieses Land wirklich erstreckt oder was in seinem Herzen ruht, ist bis heute ungeklärt. Die Grenzwacht unterhält daher waghalsige Expeditionen ins Unbekannte – mit dem Ziel, das Fremde zu kartieren, zu verstehen oder zumindest rechtzeitig zu erkennen, wenn sich etwas dort regt, das sich nicht regen sollte.
 

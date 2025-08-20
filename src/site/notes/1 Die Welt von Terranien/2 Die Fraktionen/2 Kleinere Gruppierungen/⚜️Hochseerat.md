@@ -12,7 +12,7 @@ Er tagt in Ravaryn, unter wettergegerbtem Dach, in einer Halle aus dunklem Holz 
 
 Seydran, ein Mann mit wetterfestem Blick und der Stimme eines erfahreneren Kapitäns, gilt als Architekt des heutigen Gleichgewichts. Von manchen wird er als Brückenbauer gefeiert – von anderen als Verräter an den freien Inseln geschmäht.
 
-![[Hochseerat1.png]]
+![Hochseerat1.png](/img/user/4%20Dateien/Illustrationen/Hochseerat1.png)
 
 > **„Wer die Inseln halten will, muss mit Ebbe und Stolz zugleich verhandeln.“**
 

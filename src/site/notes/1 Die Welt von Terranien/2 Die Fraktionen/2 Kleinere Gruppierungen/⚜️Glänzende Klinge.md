@@ -50,4 +50,4 @@ Ein Held ist keine Statue. Er ist jemand, der weitergeht, wenn andere schon steh
 Sie trugen das Reich nicht auf ihren Schultern, aber sie stützten es, als es zu fallen drohte.  
 Und wer heute leise lauscht, wenn Legenden erzählt werden – der hört sie noch: die Stimmen, die Schritte, das Schimmern einer Klinge in dunkler Nacht.
 
-![[Klinge1.png]]
+![Klinge1.png](/img/user/4%20Dateien/Illustrationen/Klinge1.png)
