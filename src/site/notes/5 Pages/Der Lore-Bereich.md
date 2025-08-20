@@ -64,4 +64,5 @@ $\quad$
 ### 👤$\quad$**Wichtige Charaktere**
 
 - [[1 Die Welt von Terranien/5 NPCs/🧙Varis Carnagil\|🧙Varis Carnagil]]
-- 🧙Diese folgen noch...
+- [[1 Die Welt von Terranien/5 NPCs/🧙Caelun Mareth\|🧙Caelun Mareth]]
+- 🧙Weitere folgen noch...
