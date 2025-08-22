@@ -26,7 +26,7 @@ _Das Wandernde Licht – Mensch, Paladin mit Herz aus Feuer._
 In der dunkelsten Stunde war es seine Klinge, die leuchtete – nicht durch Zauber, sondern durch Hingabe. Caelun war das Gewissen der Glänzenden Klinge, der unbeirrbare Schild zwischen Hoffnung und Untergang. Er lebt noch, still und unverändert, ein stilles Wunder. Der Orden der Tetrarchie verehrt ihn heute als heiliges Vorbild – nicht nur für seinen Glauben, sondern für seine Tat.
 
 #### Khashirr Zwei-Schatten  
-_Die silberne Klaue – Tabaxi, geboren in Dunkelheit und Charme._  
+_Die silberne Klaue – Katari, geboren in Dunkelheit und Charme._  
 Er sprach selten – doch wenn, dann schmolzen Lügen wie Wachs in seinen Worten. Mit einem Lächeln raubte er dir erst das Herz, dann dein Geheimnis. Kein Gegner sah ihn kommen, kein Schloss blieb ihm verschlossen. Manche sagen, er konnte selbst Lügen aus den Schatten locken. Andere sagen, er _war_ ein Schatten. Niemand weiß, wo er heute ist. Vielleicht weiß er es selbst nicht.
 
 #### Selira Elenwe
@@ -40,7 +40,7 @@ Nur zwei Dinge konnten ihm ein Lächeln entreißen: die neckischen Worte seiner 
 
 
 #### Minki Feenblatt  
-_Die Seele des Waldes – Waldgnomin, Druidin mit Herz und Humor._  
+_Die Seele des Waldes – Gnomin, Druidin mit Herz und Humor._  
 Sie sprach mit Blumen und fluchte wie ein Holzfäller. Zwischen Vogelruf und Wetterduft wusste Minki mehr über die Welt als viele Bücherhallen. Ihre Magie wuchs wie sie wollte – mal leise wie Moos, mal wild wie Sturm. Doch wo sie lachte, blühte Hoffnung.  
 Man sagt, selbst alte Bäume neigen sich, wenn sie mit ihnen spricht. Und Tharos? Vielleicht war es ihre größte Zauberkunst, jenem schweigsamen Zentauren ein Lächeln zu entlocken.
 
