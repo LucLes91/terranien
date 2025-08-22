@@ -35,7 +35,7 @@ $\quad$
 ###### **The Autistic Five**
 > *Hier erscheinen für die jeweilige Gruppe bestimmte Ankündigungen und Informationen*
 > > 
->-  ***Die nächste Session wird ein kurzes Daggerheart One-Shot. Wir bauen kurz neue Charaktere und haben einen Gastspieler dabei!***
+>-  ***Die nächste Session wird das Finale des DND-Einstiegsabenteuers!***
 >
 
 
@@ -45,8 +45,8 @@ $\quad$
 ### 📅 Nächste Spieltermine
 $\quad$
 ###### **The Autistic Five**
-> **🗓 Sonntag 17.08.2025 – 12:00 Uhr bei Lucas zu Hause.
-> (Bitte Rückmeldung bis 10.08.2025)**
+> **🗓 Sonntag 21.09.2025 – 12:00 Uhr bei Lucas zu Hause.
+> (Bitte Rückmeldung bis 07.09.2025)**
 
 $\quad$
 
