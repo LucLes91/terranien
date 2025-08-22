@@ -19,6 +19,7 @@ $\quad$
 | **Geschlecht**               | Männlich                                 |
 | **Beruf / Funktion**         | Kanzler des Reiches, ehemaliger Feldherr |
 | **Zugehörigkeit / Fraktion** | Reichskonzil, Glänzende Klinge           |
+
 $\quad$
 
 ### 🖼 Portrait
