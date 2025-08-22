@@ -20,6 +20,7 @@ $\quad$
 | **Geschlecht**               | Männlich                                          |
 | **Beruf / Funktion**         | Symbolfigur der Glänzenden Klinge, Volksheld      |
 | **Zugehörigkeit / Fraktion** | Glänzende Klinge, verehrt im Orden der Tetrarchie |
+
 $\quad$
 ### 🖼 Portrait
 

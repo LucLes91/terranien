@@ -12,13 +12,13 @@
 $\quad$
 ### 📜 Steckbrief
 
-| Merkmal                      | Info                                                       |
-| ---------------------------- | ---------------------------------------------------------- |
-| **Volk / Herkunft**          | Katari, Herkunft unklar – Gerüchte über exotische Inseln   |
-| **Alter**                    | Wirkt wie Anfang 40, tatsächlich deutlich älter            |
-| **Geschlecht**               | Männlich                                                   |
-| **Beruf / Funktion**         | Schurke, Einbrecher, Grenzgänger zwischen Recht & Schatten |
-| **Zugehörigkeit / Fraktion** | Ehemals Glänzende Klinge (Plagezeit), heute unabhängig     |
+| Merkmal                      | Info                                                           |
+| ---------------------------- | -------------------------------------------------------------- |
+| **Volk / Herkunft**          | Katari                                                         |
+| **Alter**                    | Wirkt wie Anfang 40, tatsächlich deutlich älter                |
+| **Geschlecht**               | Männlich                                                       |
+| **Beruf / Funktion**         | Schurke, Einbrecher, Grenzgänger <br>zwischen Recht & Schatten |
+| **Zugehörigkeit / Fraktion** | Ehemals Glänzende Klinge (Plagezeit), <br>heute unabhängig     |
 
 $\quad$
 ### 🖼 Portrait
