@@ -66,4 +66,5 @@ $\quad$
 - [[1 Die Welt von Terranien/5 NPCs/🧙Varis Carnagil\|🧙Varis Carnagil]]
 - [[1 Die Welt von Terranien/5 NPCs/🧙Caelun Mareth\|🧙Caelun Mareth]]
 - [[1 Die Welt von Terranien/5 NPCs/🧙Khashirr Zwei-Schatten\|🧙Khashirr Zwei-Schatten]]
+- [[1 Die Welt von Terranien/5 NPCs/🧙Selira Elenwe\|🧙Selira Elenwe]]
 - 🧙Weitere folgen noch...
