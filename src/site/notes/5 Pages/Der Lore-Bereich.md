@@ -67,4 +67,6 @@ $\quad$
 - [[1 Die Welt von Terranien/5 NPCs/🧙Caelun Mareth\|🧙Caelun Mareth]]
 - [[1 Die Welt von Terranien/5 NPCs/🧙Khashirr Zwei-Schatten\|🧙Khashirr Zwei-Schatten]]
 - [[1 Die Welt von Terranien/5 NPCs/🧙Selira Elenwe\|🧙Selira Elenwe]]
+- [[1 Die Welt von Terranien/5 NPCs/🧙Tharos Steppenlauf\|🧙Tharos Steppenlauf]]
+- [[1 Die Welt von Terranien/5 NPCs/🧙Minki Feenblatt\|🧙Minki Feenblatt]]
 - 🧙Weitere folgen noch...

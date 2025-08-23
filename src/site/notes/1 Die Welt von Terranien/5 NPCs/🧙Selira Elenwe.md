@@ -15,7 +15,7 @@ $\quad$
 | Merkmal                      | Info                                                   |
 | ---------------------------- | ------------------------------------------------------ |
 | **Volk / Herkunft**          | Halbelfin                                              |
-| **Alter**                    | 134 Jahre (wirkt zeitloser durch ihre Ausstrahlung)    |
+| **Alter**                    | 144 Jahre (wirkt zeitloser durch ihre Ausstrahlung)    |
 | **Geschlecht**               | Weiblich                                               |
 | **Beruf / Funktion**         | Klerikerin, Heilerin, Streiterin im Namen des Glaubens |
 | **Zugehörigkeit / Fraktion** | Kult um **Lunareth**, Glänzende Klinge                 |
