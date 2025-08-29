@@ -4,4 +4,4 @@
 
 $\quad$
 $\quad$
-[Daggerheart](https://www.daggerheart.com/wp-content/uploads/2025/06/DH-SRD-1.0-June-26-2025.pdf)
+<iframe src="/static/SRD_DH_ENG.pdf" width="100%" height="800px"></iframe>
