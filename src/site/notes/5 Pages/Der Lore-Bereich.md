@@ -70,4 +70,5 @@ $\quad$
 - [[1 Die Welt von Terranien/5 NPCs/🧙Selira Elenwe\|🧙Selira Elenwe]]
 - [[1 Die Welt von Terranien/5 NPCs/🧙Tharos Steppenlauf\|🧙Tharos Steppenlauf]]
 - [[1 Die Welt von Terranien/5 NPCs/🧙Minki Feenblatt\|🧙Minki Feenblatt]]
+- [[1 Die Welt von Terranien/5 NPCs/🧙Kaiserin-Regentin Alfina\|🧙Kaiserin-Regentin Alfina]]
 - 🧙Weitere folgen noch...
