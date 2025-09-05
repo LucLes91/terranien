@@ -4,6 +4,6 @@
 
 $\quad$
 
-<iframe src="https://raw.githubusercontent.com/LucLes91/terranien/main/public/DH_Regelwerk.pdf" width="100%" height="800"></iframe>
+<iframe src="https://cdn.jsdelivr.net/gh/LucLes91/terranien@main/public/DH_Regelwerk.pdf" width="100%" height="800"></iframe>
 
-[📥 PDF herunterladen](https://raw.githubusercontent.com/LucLes91/terranien/main/public/DH_Regelwerk.pdf)
+[📥 PDF herunterladen](https://cdn.jsdelivr.net/gh/LucLes91/terranien@main/public/DH_Regelwerk.pdf)
