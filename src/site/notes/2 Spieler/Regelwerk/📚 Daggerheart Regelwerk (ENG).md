@@ -3,5 +3,7 @@
 ---
 
 $\quad$
-$\quad$
-<iframe src="/static/SRD_DH_ENG.pdf" width="100%" height="800px"></iframe>
+
+<iframe src="https://raw.githubusercontent.com/LucLes91/terranien/main/public/DH_Regelwerk.pdf" width="100%" height="800"></iframe>
+
+[📥 PDF herunterladen](https://raw.githubusercontent.com/LucLes91/terranien/main/public/DH_Regelwerk.pdf)
