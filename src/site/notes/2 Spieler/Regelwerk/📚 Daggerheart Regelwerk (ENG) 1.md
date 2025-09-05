@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-spieler/regelwerk/daggerheart-regelwerk-eng/"}
+{"dg-publish":true,"permalink":"/2-spieler/regelwerk/daggerheart-regelwerk-eng-1/"}
 ---
 
 # 📚 Daggerheart Regelwerk (ENG)
@@ -15,17 +15,15 @@ $\quad$
 <div class="section"></div>
 
 ### 🚀 Schnellzugriff
+$\quad$
 <div class="action-grid">
   <a class="btn" href="https://cdn.jsdelivr.net/gh/LucLes91/terranien@main/public/DH_Regelwerk.pdf">📥 SRD als PDF herunterladen</a>
   <a class="btn" href="https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLucLes91%2Fterranien%40main%2Fpublic%2FDH_Regelwerk.pdf#zoom=page-width">🔎 SRD im Browser-Viewer öffnen</a>
 </div>
 
-<hr/>
-
-  ### **Vorschau des SRD ( Für PDF [📥 Hier Klicken ](https://cdn.jsdelivr.net/gh/LucLes91/terranien@main/public/DH_Regelwerk.pdf))** 
-
 $\quad$
-
+### 🖹 Eingebettete Vorschau
+$\quad$
 <iframe
   src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLucLes91%2Fterranien%40main%2Fpublic%2FDH_Regelwerk.pdf#zoom=page-width"
   width="100%" height="800" style="border:0;">
