@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-spieler/regelwerk/daggerheart-regelwerk-englisch/"}
+{"dg-publish":true,"permalink":"/2-spieler/regelwerk/daggerheart-regelwerk-englisch-1/"}
 ---
 
 # 📚 Daggerheart Regelwerk (ENG)
