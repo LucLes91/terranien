@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-spieler/regelwerk/daggerheart-regelwerk-englisch/"}
+{"dg-publish":true,"permalink":"/2-spieler/regelwerk/dungeons-and-dragons-regelwerk-2024-englisch/"}
 ---
 
 
@@ -31,13 +31,13 @@
 
 <div class="page-srd">
 
-# 📚 Daggerheart Regelwerk (Englisch)
+# 📚 Dungeons & Dragons Regelwerk 2024 (Englisch)
 <div class="sub">Offizielles SRD – schneller Zugriff & eingebettete Vorschau</div>
 
 <!-- 1) Eingebettete Vorschau -->
 <div class="pdf-frame">
   <iframe
-    src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLucLes91%2Fterranien%40main%2Fpublic%2FDH_Regelwerk.pdf#zoom=page-width"
+    src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLucLes91%2Fterranien%40main%2Fpublic%2FDND_Regelwerk_2024.pdf#zoom=page-width"
     title="Daggerheart SRD – Vorschau">
   </iframe>
 </div>
@@ -47,8 +47,8 @@
 <!-- 2) Schnellzugriff -->
 ### 🚀 Schnellzugriff
 <div class="action-grid">
-  <a class="btn" href="https://cdn.jsdelivr.net/gh/LucLes91/terranien@main/public/DH_Regelwerk.pdf">📥 SRD als PDF herunterladen</a>
-  <a class="btn" href="https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLucLes91%2Fterranien%40main%2Fpublic%2FDH_Regelwerk.pdf#zoom=page-width">🔎 SRD im Browser-Viewer öffnen</a>
+  <a class="btn" href="https://cdn.jsdelivr.net/gh/LucLes91/terranien@main/public/DND_Regelwerk_2024.pdf">📥 SRD als PDF herunterladen</a>
+  <a class="btn" href="https://mozilla.github.io/pdf.js/web/viewer.html?file=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FLucLes91%2Fterranien%40main%2Fpublic%2FDND_Regelwerk_2024.pdf#zoom=page-width">🔎 SRD im Browser-Viewer öffnen</a>
 </div>
 
 <hr/>
