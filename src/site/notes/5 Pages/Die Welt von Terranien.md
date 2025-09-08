@@ -28,7 +28,8 @@ $\quad$
 > 
 >-  ***Die Lore-Einträge zu den Fraktionen (sowohl große, als auch kleine), sind fertig und online.***
 > - ***Die Lore-Einträge der Themen über den Alltag und die Gesellschaft in Terranien sind ebenfalls online.***
-> 
+> - ***Die ersten NPC Portraits sind einsehbar.***
+> - ***SRDs für unsere beiden gängigen Regelwerke sind nun verlinkt im Spielerbereich.***
 
 $\quad$
 
@@ -36,7 +37,7 @@ $\quad$
 > *Hier erscheinen für die jeweilige Gruppe bestimmte Ankündigungen und Informationen*
 > > 
 >-  ***Die nächste Session wird das Finale des DND-Einstiegsabenteuers!***
->
+>- ***Wir spielen noch einmal mit DND-Regeln also eure Mappen nicht vergessen!***
 
 
 
