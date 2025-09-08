@@ -30,5 +30,5 @@ $\quad$
 $\quad$
 
 ### 🧑‍🤝‍🧑$\quad$**Charaktere & Vorstellungen**
-- **Gruppe 1 ** → [[2 Spieler/Spielsessions/🗓️ The Autistic Five\|🗓️ The Autistic Five]]  
-- **Gruppe 2 ** →
+- **Gruppe 1** → [[2 Spieler/Spielsessions/🗓️ The Autistic Five\|🗓️ The Autistic Five]]  
+- **Gruppe 2** →
