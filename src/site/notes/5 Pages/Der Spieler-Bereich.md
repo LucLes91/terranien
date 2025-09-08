@@ -24,8 +24,8 @@ $\quad$
 $\quad$
 
 ### 👥$\quad$**Gruppen & Protokolle**
-- **Gruppe 1 ** → [[2 Spieler/Spielergruppe/🏕️ The Autistic Five\|🏕️ The Autistic Five]]  
-- **Gruppe 2 ** → 
+- **Gruppe 1** → [[2 Spieler/Spielergruppe/🏕️ The Autistic Five\|🏕️ The Autistic Five]]  
+- **Gruppe 2** → 
 
 $\quad$
 
